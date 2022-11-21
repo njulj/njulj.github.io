@@ -21,7 +21,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 * 2020.07: 🎊 Winner Award 🏆
 	* We won the first prize of the [ECCV AIM 2020 Efficient Super-Resolution Challenge](https://data.vision.ee.ethz.ch/cvl/aim20/).
 	<p align="left">
-	<img src="../Images/AIM.png" width="500">
+	<img src="AIM.png" width="500">
 	</p>
 * 2020.07: 🎉 One paper is accepted by ACM MM 2020 (CCF-A).
   * [Memory Recursive Network for Single Image Super-Resolution](https://dl.acm.org/doi/abs/10.1145/3394171.3413696). **Jie Liu**, Minqiang Zou, Jie Tang, Gangshan Wu.
