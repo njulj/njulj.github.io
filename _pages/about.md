@@ -7,15 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🐳 课题组正招收2023年硕士研究生，欢迎与我（Email: liujie@nju.edu.cn）联系。课题组设备资源充足（人均8块GPU），会为专硕提供住宿补贴！
+🐳 课题组正招收2023年硕士研究生/2024年推免生，欢迎与我（Email: liujie@nju.edu.cn）联系。课题组设备资源充足（人均8块GPU），会为专硕提供住宿补贴！
 ## Biography
 I am working as an assistant researcher in the Department of Computer Science and Technology at Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/), [Prof.Limin Wang](https://wanglimin.github.io/), and [Prof.Gangshan Wu](http://mcg.nju.edu.cn/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
 My research interest broadly includes machine learning and computer vision. Specifically, I focus on image/video restoration (e.g., super-resolution), video interpolation, pose estimation, visual tracking, etc.
 
 ## 🔥 Recent News
+* 2023.04: 🎉 <span style="color:red">**One paper is accepted by IJCAI 2023 (CCF-A). Congratulations to Chang Zhou!**</span>:
+  * [Video Frame Interpolation with Densely Queried Bilateral Correlation](). Chang Zhou, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
 * 2022.11: 🎉 One paper is accepted by AAAI 2023 (CCF-A):
-  * [From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-Resolution](). **Jie Liu**, Chao Chen, Jie Tang, and Gangshan Wu.
+  * [From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-Resolution](https://arxiv.org/abs/2211.16776). **Jie Liu**, Chao Chen, Jie Tang, and Gangshan Wu.
 * 2021.07: 🎊 Honorable Mention Award 
 	* We won the Honorable Mention Award of the [CVPR MAI 2021 Quantized Image Super-Resolution Challenge](https://ai-benchmark.com/workshops/mai/2021/).
 * 2020.07: 🎊 Winner Award 🏆
@@ -35,6 +37,7 @@ Outstanding PhD candidate of Nanjing University （南京大学提升B计划）
 
 ## Academic Services
 * Reviewer
+  * CVPR2023, ICCV 2023
   * ECCV 2022, CVPR 2022 
   * ICCV 2021, CVPR 2021, AAAI 2021 
   * IEEE TMM, IEEE TCSVT 
