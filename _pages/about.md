@@ -14,9 +14,11 @@ I am working as an assistant researcher in the Department of Computer Science an
 My research interest broadly includes machine learning and computer vision. Specifically, I focus on image/video restoration (e.g., super-resolution), video interpolation, pose estimation, visual tracking, etc.
 
 ## 🔥 Recent News
-* 2023.04: 🎉 <span style="color:red">**One paper is accepted by IJCAI 2023 (CCF-A). Congratulations to Chang Zhou!**</span>:
+* 2023.07: 🎉 <span style="color:red">**One paper was accepted to ICCV 2023 (CCF-A). Congratulations Yidong Cai!**</span>:
+  * ["Robust Object Modeling for Visual Tracking"](). Yidong Cai, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
+* 2023.04: 🎉 <span style="color:black">**One paper was accepted to IJCAI 2023 (CCF-A). Congratulations Chang Zhou!**</span>:
   * [Video Frame Interpolation with Densely Queried Bilateral Correlation](). Chang Zhou, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
-* 2022.11: 🎉 One paper is accepted by AAAI 2023 (CCF-A):
+* 2022.11: 🎉 One paper was accepted to AAAI 2023 (CCF-A):
   * [From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-Resolution](https://arxiv.org/abs/2211.16776). **Jie Liu**, Chao Chen, Jie Tang, and Gangshan Wu.
 * 2021.07: 🎊 Honorable Mention Award 
 	* We won the Honorable Mention Award of the [CVPR MAI 2021 Quantized Image Super-Resolution Challenge](https://ai-benchmark.com/workshops/mai/2021/).
@@ -25,9 +27,9 @@ My research interest broadly includes machine learning and computer vision. Spec
 	<p align="left">
 	<img src="AIM.png" width="500">
 	</p>
-* 2020.07: 🎉 One paper is accepted by ACM MM 2020 (CCF-A).
+* 2020.07: 🎉 One paper was accepted to ACM MM 2020 (CCF-A).
   * [Memory Recursive Network for Single Image Super-Resolution](https://dl.acm.org/doi/abs/10.1145/3394171.3413696). **Jie Liu**, Minqiang Zou, Jie Tang, Gangshan Wu.
-* 2020.02: 🎉 One paper is accepted by CVPR 2020 (CCF-A).
+* 2020.02: 🎉 One paper was accepted to CVPR 2020 (CCF-A).
   * [Residual Feature Aggregation Network for Image Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html). **Jie Liu**, Wenjie Zhang, Yuting Tang, Jie Tang, Gangshan Wu.
 
 ## Honors and Awards
