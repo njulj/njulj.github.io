@@ -16,7 +16,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 ## 🔥 Recent News
 * 2023.07: 🎉 <span style="color:red">**One paper was accepted to ICCV 2023 (CCF-A). Congratulations Yidong Cai!**</span>:
   * ["Robust Object Modeling for Visual Tracking"](). Yidong Cai, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
-* 2023.04: 🎉 <span style="color:black">**One paper was accepted to IJCAI 2023 (CCF-A). Congratulations Chang Zhou!**</span>:
+* 2023.04: 🎉 <span style="color:blue">**One paper was accepted to IJCAI 2023 (CCF-A). Congratulations Chang Zhou!**</span>:
   * [Video Frame Interpolation with Densely Queried Bilateral Correlation](). Chang Zhou, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
 * 2022.11: 🎉 One paper was accepted to AAAI 2023 (CCF-A):
   * [From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-Resolution](https://arxiv.org/abs/2211.16776). **Jie Liu**, Chao Chen, Jie Tang, and Gangshan Wu.
@@ -36,6 +36,11 @@ My research interest broadly includes machine learning and computer vision. Spec
 * National Scholarships for Doctoral Students （博士研究生国家奖学金）
 * Supported by the program B for
 Outstanding PhD candidate of Nanjing University （南京大学提升B计划）
+
+## Teaching
+* 计算机系统基础（ICS）
+    * 2023年春季学期（理论部分）
+    * 2023年秋季学期（PA实验） 
 
 ## Academic Services
 * Reviewer
