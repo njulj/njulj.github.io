@@ -14,6 +14,8 @@ I am working as an assistant researcher in the Department of Computer Science an
 My research interest broadly includes machine learning and computer vision. Specifically, I focus on image/video restoration (e.g., super-resolution), video interpolation, pose estimation, visual tracking, etc.
 
 ## 🔥 Recent News
+* 2023.07: 🎉 <span style="color:red">**One paper was accepted to ACM MM 2023 (CCF-A). Congratulations Haonan Wang!**</span>:
+  * ["Lightweight Super-Resolution Head for Human Pose Estimation"](). Haonan Wang, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
 * 2023.07: 🎉 <span style="color:red">**One paper was accepted to ICCV 2023 (CCF-A). Congratulations Yidong Cai!**</span>:
   * ["Robust Object Modeling for Visual Tracking"](). Yidong Cai, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
 * 2023.04: 🎉 <span style="color:blue">**One paper was accepted to IJCAI 2023 (CCF-A). Congratulations Chang Zhou!**</span>:
