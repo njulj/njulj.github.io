@@ -14,7 +14,11 @@ I am working as an assistant researcher in the Department of Computer Science an
 My research interest broadly includes machine learning and computer vision. Specifically, I focus on image/video restoration (e.g., super-resolution), video interpolation, pose estimation, visual tracking, etc.
 
 ## 🔥 Recent News
-* 2023.08: <span style="color:blue">🎊 **恭喜指导的21级本科生石璐和梁锦文同学在天池算法竞赛平台上举办的[“AFAC2023-金融数据验真-金融文档防篡改挑战赛”](https://tianchi.aliyun.com/competition/entrance/532096/introduction)中获得季军🥉的优异成绩（¥10000）**</span>🎊
+* 2023.08: <span style="color:blue">🎊 **恭喜指导的21级本科生石璐和梁锦文同学在天池算法竞赛平台上举办的[“AFAC2023-金融数据验真-金融文档防篡改挑战赛”](https://tianchi.aliyun.com/competition/entrance/532096/introduction)中获得季军的优异成绩（¥10000）**</span>
+	* 🥉🥉🥉
+ 	<p align="left">
+	<img src="afac_certificate.pdf" width="400">
+	</p>
 * 2023.08: <span style="color:green">**荣获AFAC2023金融智能挑战赛“优秀指导教师”!**</span>
 * 2023.07: <span style="color:gray">**One paper was accepted to ACM MM 2023 (CCF-A). Congratulations Haonan Wang!**</span>:
   * ["Lightweight Super-Resolution Head for Human Pose Estimation"](https://arxiv.org/abs/2307.16765). Haonan Wang, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author) 
@@ -29,7 +33,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 * 2020.07: 🎊 Winner Award 🏆
 	* We won the first prize of the [ECCV AIM 2020 Efficient Super-Resolution Challenge](https://data.vision.ee.ethz.ch/cvl/aim20/).
 	<p align="left">
-	<img src="AIM.png" width="500">
+	<img src="AIM.png" width="400">
 	</p>
 * 2020.07: One paper was accepted to ACM MM 2020 (CCF-A).
   * [Memory Recursive Network for Single Image Super-Resolution](https://dl.acm.org/doi/abs/10.1145/3394171.3413696). **Jie Liu**, Minqiang Zou, Jie Tang, Gangshan Wu.
