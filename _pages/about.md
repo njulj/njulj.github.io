@@ -40,6 +40,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 * National Scholarships for Doctoral Students （博士研究生国家奖学金）
 * Supported by the program B for
 Outstanding PhD candidate of Nanjing University （南京大学提升B计划）
+* AFAC2023金融智能挑战赛“优秀指导教师”
 
 ## Teaching
 * 计算机系统基础（ICS）
