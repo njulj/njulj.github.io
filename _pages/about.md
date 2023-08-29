@@ -15,7 +15,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 
 ## 🔥 Recent News
 * 2023.08: <span style="color:blue">🎊 **恭喜指导的21级本科生石璐和梁锦文同学在天池算法竞赛平台上举办的[“AFAC2023-金融数据验真-金融文档防篡改挑战赛”](https://tianchi.aliyun.com/competition/entrance/532096/introduction)中获得季军的优异成绩（¥10000）**</span>
-	* 🥉🥉🥉 <p align="left"> <img src="afac.png" width="400"></p>
+	* 🥉🥉🥉 <p align="left"> <img src="afac_screen.png" width="400"></p>
 * 2023.08: <span style="color:green">**荣获AFAC2023金融智能挑战赛“优秀指导教师”!**</span>
 * 2023.07: <span style="color:gray">**One paper was accepted to ACM MM 2023 (CCF-A). Congratulations Haonan Wang!**</span>:
   * ["Lightweight Super-Resolution Head for Human Pose Estimation"](https://arxiv.org/abs/2307.16765). Haonan Wang, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author) 
