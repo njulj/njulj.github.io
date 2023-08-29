@@ -17,11 +17,11 @@ My research interest broadly includes machine learning and computer vision. Spec
 * 2023.08: <span style="color:blue">🎊 **恭喜指导的21级本科生石璐和梁锦文同学在天池算法竞赛平台上举办的[“AFAC2023-金融数据验真-金融文档防篡改挑战赛”](https://tianchi.aliyun.com/competition/entrance/532096/introduction)中获得季军🥉的优异成绩（¥10000）**</span>🎊
 * 2023.08: <span style="color:green">**荣获AFAC2023金融智能挑战赛“优秀指导教师”!**</span>
 * 2023.07: <span style="color:gray">**One paper was accepted to ACM MM 2023 (CCF-A). Congratulations Haonan Wang!**</span>:
-  * ["Lightweight Super-Resolution Head for Human Pose Estimation"](). Haonan Wang, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
+  * ["Lightweight Super-Resolution Head for Human Pose Estimation"](https://arxiv.org/abs/2307.16765). Haonan Wang, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
 * 2023.07: <span style="color:gray">**One paper was accepted to ICCV 2023 (CCF-A). Congratulations Yidong Cai!**</span>:
-  * ["Robust Object Modeling for Visual Tracking"](). Yidong Cai, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
+  * ["Robust Object Modeling for Visual Tracking"](https://arxiv.org/abs/2308.05140). Yidong Cai, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
 * 2023.04: <span style="color:gray">**One paper was accepted to IJCAI 2023 (CCF-A). Congratulations Chang Zhou!**</span>:
-  * [Video Frame Interpolation with Densely Queried Bilateral Correlation](). Chang Zhou, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
+  * [Video Frame Interpolation with Densely Queried Bilateral Correlation](https://arxiv.org/abs/2304.13596). Chang Zhou, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author)
 * 2022.11: One paper was accepted to AAAI 2023 (CCF-A):
   * [From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-Resolution](https://arxiv.org/abs/2211.16776). **Jie Liu**, Chao Chen, Jie Tang, and Gangshan Wu.
 * 2021.07: 🎊 Honorable Mention Award 
