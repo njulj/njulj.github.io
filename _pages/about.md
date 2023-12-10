@@ -14,6 +14,7 @@ I am working as an assistant researcher in the Department of Computer Science an
 My research interest broadly includes machine learning and computer vision. Specifically, I focus on image/video restoration (e.g., super-resolution), video interpolation, pose estimation, visual tracking, etc.
 
 ## 🔥 Recent News
+* 2023.12: <span style="color:red">**One paper was accepted to AAAI 2024 (CCF-A). Congratulations Chao Chen!**</span>:
 * 2023.11: <span style="color:black">**Invited to serve as a reviewer for CVPR 2024.**</span>
 * 2023.08: <span style="color:blue">🎊 **恭喜指导的21级本科生石璐和梁锦文同学在天池算法竞赛平台上举办的[“AFAC2023-金融数据验真-金融文档防篡改挑战赛”](https://tianchi.aliyun.com/competition/entrance/532096/introduction)中获得季军的优异成绩（¥10000）**</span>
 	* 🥉🥉🥉 

@@ -15,8 +15,17 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+### 2024
+* [Sketch and Refine: Towards Fast and Accurate Lane Detection](). Chao Chen, **Jie Liu***, Chang Zhou, Jie Tang, and Gangshan Wu. **AAAI**, 2024. (CCF-A)
+
 ### 2023
-* [From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-Resolution](). **Jie Liu**, Chao Chen, Jie Tang, and Gangshan Wu. Accepted by **AAAI**, 2023. (CCF-A)
+* [Robust Object Modeling for Visual Tracking](https://arxiv.org/abs/2308.05140). Yidong Cai, **Jie Liu***, Jie Tang, and Gangshan Wu. **ICCV**, 2023. (CCF-A)
+
+* [Lightweight Super-Resolution Head for Human Pose Estimation](https://arxiv.org/abs/2307.16765). Haonan Wang, **Jie Liu***, Jie Tang, and Gangshan Wu. **ACM MM**, 2023. (CCF-A)
+
+* [Video Frame Interpolation with Densely Queried Bilateral Correlation](https://arxiv.org/abs/2304.13596). Chang Zhou, **Jie Liu***, Jie Tang, and Gangshan Wu. **IJCAI**, 2023. (CCF-A)
+
+* [From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-Resolution](https://arxiv.org/abs/2211.16776). **Jie Liu**, Chao Chen, Jie Tang, and Gangshan Wu. **AAAI**, 2023. (CCF-A)
 
 ### 2022
 * [Two Strategies Toward Lightweight Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/9746192/). Zongcai Du, **Jie Liu**, Jie Tang, Gangshan Wu. **ICASSP**, 2022. (CCF-B)
