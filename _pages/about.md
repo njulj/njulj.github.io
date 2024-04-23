@@ -23,7 +23,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 * 2023.12: <span style="color:gray">**One paper was accepted to AAAI 2024 (CCF-A). Congratulations Chao Chen!**</span>:
 * 2023.11: <span style="color:gray">**Invited to serve as a reviewer for CVPR 2024.**</span>
 * 2023.08: <span style="color:blue">🎊 **恭喜指导的21级本科生石璐和梁锦文同学在天池算法竞赛平台上举办的[“AFAC2023-金融数据验真-金融文档防篡改挑战赛”](https://tianchi.aliyun.com/competition/entrance/532096/introduction)中获得季军的优异成绩（¥10000）**</span>
-	* 🥉🥉🥉 
+   * 🥉🥉🥉 
 	<p align="left"> 
 	<img src="AFAC.png" width="400">
 	</p>
@@ -39,8 +39,8 @@ My research interest broadly includes machine learning and computer vision. Spec
 * 2021.07: 🎊 Honorable Mention Award 
 	* We won the Honorable Mention Award of the [CVPR MAI 2021 Quantized Image Super-Resolution Challenge](https://ai-benchmark.com/workshops/mai/2021/).
 * 2020.07: 🎊 Winner Award 🏆
-	* We won the first prize of the [ECCV AIM 2020 Efficient Super-Resolution Challenge](https://data.vision.ee.ethz.ch/cvl/aim20/).
-	<p align="left">
+   * We won the first prize of the [ECCV AIM 2020 Efficient Super-Resolution Challenge](https://data.vision.ee.ethz.ch/cvl/aim20/).
+   <p align="left">
 	<img src="AIM.png" width="400">
 	</p>
 * 2020.07: One paper was accepted to ACM MM 2020 (CCF-A).
