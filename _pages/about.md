@@ -7,15 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🐳 课题组正招收2024年推免生，欢迎与我（Email: liujie@nju.edu.cn）联系。课题组设备资源充足，会为专硕提供住宿补贴！
+🐳 课题组正招收2025年推免生，欢迎与我（Email: liujie@nju.edu.cn）联系。课题组设备资源充足，会为专硕提供住宿补贴！
 ## Biography
 I am working as an assistant researcher in the Department of Computer Science and Technology at Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/), [Prof.Limin Wang](https://wanglimin.github.io/), and [Prof.Gangshan Wu](http://mcg.nju.edu.cn/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
 My research interest broadly includes machine learning and computer vision. Specifically, I focus on image/video restoration (e.g., super-resolution), video interpolation, pose estimation, visual tracking, etc.
 
 ## 🔥 Recent News
-* 2023.12: <span style="color:red">**One paper was accepted to AAAI 2024 (CCF-A). Congratulations Chao Chen!**</span>:
-* 2023.11: <span style="color:black">**Invited to serve as a reviewer for CVPR 2024.**</span>
+* 2024.04: <span style="color:gray">**梁锦文、罗星宇、石璐、孙源泽同学赴阿联酋·阿布扎比参加AICAS Grand Challenge 2024**</span>
+* 2024.04: <span style="color:red">🎊 **指导的21级本科生获得天池[“AICAS 2024：通用算力大模型推理性能软硬协同优化挑战赛”](https://tianchi.aliyun.com/competition/entrance/532170?spm=a2c22.12281957.0.0.4c886d94Fr3gDe&lang=zh-cn)第二名的优异成绩（USD 3000）。恭喜梁锦文、罗星宇、石璐、孙源泽同学！**</span>
+  * 🥈🥈🥈
+	<p align="left"> 
+	<img src="AICAS.pdf" width="400">
+	</p>
+
+* 2023.12: <span style="color:gray">**One paper was accepted to AAAI 2024 (CCF-A). Congratulations Chao Chen!**</span>:
+* 2023.11: <span style="color:gray">**Invited to serve as a reviewer for CVPR 2024.**</span>
 * 2023.08: <span style="color:blue">🎊 **恭喜指导的21级本科生石璐和梁锦文同学在天池算法竞赛平台上举办的[“AFAC2023-金融数据验真-金融文档防篡改挑战赛”](https://tianchi.aliyun.com/competition/entrance/532096/introduction)中获得季军的优异成绩（¥10000）**</span>
 	* 🥉🥉🥉 
 	<p align="left"> 
@@ -55,7 +62,7 @@ Outstanding PhD candidate of Nanjing University （南京大学提升B计划）
 
 ## Academic Services
 * Reviewer
-  * CVPR 2024
+  * CVPR 2024, ECCV 2024, MM 2024, ACCV 2024
   * CVPR 2023, ICCV 2023
   * ECCV 2022, CVPR 2022 
   * ICCV 2021, CVPR 2021, AAAI 2021 
