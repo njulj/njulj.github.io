@@ -18,7 +18,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 * 2024.04: <span style="color:red">🎊 **指导的21级本科生获得天池[“AICAS 2024：通用算力大模型推理性能软硬协同优化挑战赛”](https://tianchi.aliyun.com/competition/entrance/532170?spm=a2c22.12281957.0.0.4c886d94Fr3gDe&lang=zh-cn)第二名的优异成绩（USD 3000）。恭喜梁锦文、罗星宇、石璐、孙源泽同学！**</span>
   * 🥈🥈🥈
 	<p align="left"> 
-	<img src="AICAS.pdf" width="400">
+	<img src="AICAS.png" width="400">
 	</p>
 
 * 2023.12: <span style="color:gray">**One paper was accepted to AAAI 2024 (CCF-A). Congratulations Chao Chen!**</span>:
