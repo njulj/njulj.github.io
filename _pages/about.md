@@ -14,9 +14,10 @@ I am working as an assistant researcher in the Department of Computer Science an
 My research interest broadly includes machine learning and computer vision. Specifically, I focus on image/video restoration (e.g., super-resolution), video interpolation, pose estimation, visual tracking, etc.
 
 ## 🔥 Recent News
-* 2024.05: <span style="color:green">**Invited to serve as a reviewer for NeurIPS 2024.**</span>
+* 2024.07: <span style="color:red">**One paper was accepted to ECCV 2024. Congratulations Haonan Wang!**</span>:
+* 2024.05: <span style="color:gray">**Invited to serve as a reviewer for NeurIPS 2024.**</span>
 * 2024.04: <span style="color:gray">**梁锦文、罗星宇、石璐、孙源泽同学赴阿联酋·阿布扎比参加AICAS Grand Challenge 2024**</span>
-* 2024.04: <span style="color:red">🎊 **指导的21级本科生获得天池[“AICAS 2024：通用算力大模型推理性能软硬协同优化挑战赛”](https://tianchi.aliyun.com/competition/entrance/532170?spm=a2c22.12281957.0.0.4c886d94Fr3gDe&lang=zh-cn)第二名的优异成绩（USD 3000）。恭喜梁锦文、罗星宇、石璐、孙源泽同学！**</span>
+* 2024.04: <span style="color:blue">🎊 **指导的21级本科生获得天池[“AICAS 2024：通用算力大模型推理性能软硬协同优化挑战赛”](https://tianchi.aliyun.com/competition/entrance/532170?spm=a2c22.12281957.0.0.4c886d94Fr3gDe&lang=zh-cn)第二名的优异成绩（USD 3000）。恭喜梁锦文、罗星宇、石璐、孙源泽同学！**</span>
    * 🥈🥈🥈
 	<p align="left"> 
 	<img src="AICAS.png" width="400">

@@ -16,7 +16,8 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 ### 2024
-* [Sketch and Refine: Towards Fast and Accurate Lane Detection](). Chao Chen, **Jie Liu***, Chang Zhou, Jie Tang, and Gangshan Wu. **AAAI**, 2024. (CCF-A)
+* [GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation](). Haonan Wang, **Jie Liu***, Jie Tang, Gangshan Wu, Bo Xu, Yanbing Chou, and Yong Wang. **ECCV**, 2024. (CCF-B)
+* [Sketch and Refine: Towards Fast and Accurate Lane Detection](https://ojs.aaai.org/index.php/AAAI/article/view/27860). Chao Chen, **Jie Liu***, Chang Zhou, Jie Tang, and Gangshan Wu. **AAAI**, 2024. (CCF-A)
 
 ### 2023
 * [Robust Object Modeling for Visual Tracking](https://arxiv.org/abs/2308.05140). Yidong Cai, **Jie Liu***, Jie Tang, and Gangshan Wu. **ICCV**, 2023. (CCF-A)
