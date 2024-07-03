@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications (* indicates the corresponding author)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -14,6 +14,8 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+
+<span style="color:green">* indicates the corresponding author</span>
 
 ### 2024
 * <span style="color:red">**[CCF-B]**</span> [GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation](). Haonan Wang, **Jie Liu***, Jie Tang, Gangshan Wu, Bo Xu, Yanbing Chou, and Yong Wang. **ECCV**, 2024. 
