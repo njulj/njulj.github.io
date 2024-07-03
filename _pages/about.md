@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🐳 课题组正招收2025年推免生，欢迎与我（Email: liujie@nju.edu.cn）联系。课题组设备资源充足，会为专硕提供住宿补贴！
+🐳 课题组正招收2025年推免生，欢迎与我（Email: liujie@nju.edu.cn）联系。课题组设备资源充足，每月会为专硕提供住宿补贴！
+
+🔥🔥🔥 <span style="color:green">目前团队中还有一个25年申请-考核制博士名额，欢迎邮件投递简历！</span>
 ## Biography
 I am working as an assistant researcher in the Department of Computer Science and Technology at Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/), [Prof.Limin Wang](https://wanglimin.github.io/), and [Prof.Gangshan Wu](http://mcg.nju.edu.cn/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
@@ -16,7 +18,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
 
 ## 🔥 Recent News
-* 2024.07: <span style="color:red">**One paper was accepted to ECCV 2024. Congratulations Haonan Wang!**</span>:
+* 2024.07: <span style="color:red">**One paper was accepted to ECCV 2024. Congratulations Haonan Wang!**</span>
 * 2024.05: <span style="color:gray">**Invited to serve as a reviewer for NeurIPS 2024.**</span>
 * 2024.04: <span style="color:gray">**梁锦文、罗星宇、石璐、孙源泽同学赴阿联酋·阿布扎比参加AICAS Grand Challenge 2024**</span>
 * 2024.04: <span style="color:blue">🎊 **指导的21级本科生获得天池[“AICAS 2024：通用算力大模型推理性能软硬协同优化挑战赛”](https://tianchi.aliyun.com/competition/entrance/532170?spm=a2c22.12281957.0.0.4c886d94Fr3gDe&lang=zh-cn)第二名的优异成绩（USD 3000）。恭喜梁锦文、罗星宇、石璐、孙源泽同学！**</span>
@@ -62,6 +64,7 @@ Outstanding PhD candidate of Nanjing University （南京大学提升B计划）
 * 计算机系统基础（ICS）
     * 2023年春季学期（理论部分）
     * 2023年秋季学期（PA实验） 
+    * 2024年秋季学期（计算机+AI+匡院 PA实验）
 
 ## Academic Services
 * Reviewer
@@ -71,3 +74,7 @@ Outstanding PhD candidate of Nanjing University （南京大学提升B计划）
   * ICCV 2021, CVPR 2021, AAAI 2021 
   * IEEE TMM, IEEE TCSVT 
   * ...
+  
+## Alumni
+* 2024
+	* 陈超（百度），蔡益东（字节），王浩男（腾讯），周畅（无锡天一中学）
