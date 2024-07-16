@@ -18,6 +18,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
 
 ## 🔥 Recent News
+* 2024.07: <span style="color:red">**One paper was accepted to ACM MM 2024. Congratulations Tianrui Pan!**</span>
 * 2024.07: <span style="color:red">**One paper was accepted to ECCV 2024. Congratulations Haonan Wang!**</span>
 * 2024.05: <span style="color:gray">**Invited to serve as a reviewer for NeurIPS 2024.**</span>
 * 2024.04: <span style="color:gray">**梁锦文、罗星宇、石璐、孙源泽同学赴阿联酋·阿布扎比参加AICAS Grand Challenge 2024**</span>
