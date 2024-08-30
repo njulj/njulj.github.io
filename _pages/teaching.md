@@ -33,6 +33,6 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 1.The Missing Course of Your CS Education （TBA）
 
 ### PA大作业
-* [PA0: 环境安装与配置](PA/404.md)
+* [PA0: 环境安装与配置](PA/pa0.md)
 
 ### Lab小作业
