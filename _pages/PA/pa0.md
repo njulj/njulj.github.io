@@ -7,7 +7,7 @@ permalink:
 ---
 ### Deadline (TBA)
 ### Guides
-请阅读[实验须知/提交方法](Labs/labs.md)和[实验指南](https://nju-projectn.github.io/ics-pa-gitbook/ics2024/PA0.html)
+请阅读[实验须知/提交方法](../Labs/labs.md)和[实验指南](https://nju-projectn.github.io/ics-pa-gitbook/ics2024/PA0.html)
 
 ### Online Judge 评测说明
 本实验 Online Judge 行为非常简单：
