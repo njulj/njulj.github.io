@@ -27,12 +27,12 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 * 计算机学院：周四 5-6节 1-17周 仙Ⅱ-110
 * 匡亚明学院：周五 5-6节 1-17周 仙Ⅰ-201
 * 人工智能学院：周五 3-4节 1-17周 逸A-117
-* 荣誉顾问：蒋炎岩<jyy@nju.edu.cn> 余子濠<yuzihao@ict.ac.cn>(PA作者)
+* 荣誉顾问：蒋炎岩 <jyy@nju.edu.cn> 余子濠 <yuzihao@ict.ac.cn> (PA作者)
 
 ### 课程资料
-1.The Missing Course of Your CS Education （TBA）
+1.The Missing Course of Your CS Education （slides: TBA）
 
 ### PA大作业
-* [PA0: 环境安装与配置](PA/pa0.md)
+* [PA0: 环境安装与配置](PA/pa0.md) (ddl: TBA)
 
 ### Lab小作业
