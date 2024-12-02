@@ -21,7 +21,7 @@ Currently, I am more interested in multi-modal learning and efficient machine le
 * 2024.11: <span style="color:green">**恭喜梁锦文（大四）、罗星宇（大四）、陈依言（大三）获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 2024年度“揭榜挂帅”专项赛 全国三等奖！**</span>
 * 2024.10: <span style="color:green">**Win the 1st place in the Multi-Modal Visual Pattern Recognition Challenge # Track 2 @ ICPR2024! 恭喜吴隽雨（大三）& 晁宇豪（大三）！**</span>
    * 🥇🥇🥇
-   <p align="left">
+   <p align="left"> 
 	<img src="ICPR24.jpg" width="400">
 	</p>
 * 2024.10: <span style="color:green">**恭喜林彦铠同学（大三）获得昇腾AI原生创新算子挑战赛（S2赛季）优秀奖！**</span>
