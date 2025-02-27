@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🐳 课题组正招收2025年推免生，欢迎与我（Email: liujie@nju.edu.cn）联系。课题组设备资源充足，每月会为专硕提供住宿补贴！
+🐳 课题组正招收2026年推免生，欢迎与我（Email: liujie@nju.edu.cn）联系。课题组设备资源充足，每月会为专硕提供住宿补贴！
 
-🔥🔥🔥 <span style="color:green"><s>目前团队中还有一个25年申请-考核制博士名额，欢迎邮件投递简历！</s></span>
 ## Biography
 I am working as an assistant researcher in the Department of Computer Science and Technology at Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/), [Prof.Limin Wang](https://wanglimin.github.io/), and [Prof.Gangshan Wu](http://mcg.nju.edu.cn/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
@@ -18,6 +17,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
 
 ## 🔥 Recent News
+* 2025.02: <span style="color:red">**Two papers were accepted to CVPR 2025 (CCF-A). 恭喜刘鑫（研二）和许煜恒（大三）同学!**</span>:
 * 2024.11: <span style="color:green">**恭喜梁锦文（大四）、罗星宇（大四）、陈依言（大三）获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 2024年度“揭榜挂帅”专项赛 全国三等奖！**</span>
 * 2024.10: <span style="color:green">**Win the 1st place in the Multi-Modal Visual Pattern Recognition Challenge # Track 2 @ ICPR2024! 恭喜吴隽雨（大三）& 晁宇豪（大三）！**</span>
    * 🥇🥇🥇
@@ -26,18 +26,18 @@ Currently, I am more interested in multi-modal learning and efficient machine le
 	</p>
 * 2024.10: <span style="color:green">**恭喜林彦铠同学（大三）获得昇腾AI原生创新算子挑战赛（S2赛季）优秀奖！**</span>
 * 2024.08: <span style="color:gray">**Invited to serve as a reviewer for AAAI & ICLR 2025.**</span>
-* 2024.07: <span style="color:red">**One paper was accepted to ACM MM 2024. Congratulations Tianrui Pan!**</span>
-* 2024.07: <span style="color:red">**One paper was accepted to ECCV 2024. Congratulations Haonan Wang!**</span>
+* 2024.07: <span style="color:gray">**One paper was accepted to ACM MM 2024. Congratulations Tianrui Pan!**</span>
+* 2024.07: <span style="color:gray">**One paper was accepted to ECCV 2024. Congratulations Haonan Wang!**</span>
 * 2024.05: <span style="color:gray">**Invited to serve as a reviewer for NeurIPS 2024.**</span>
 * 2024.04: <span style="color:gray">**梁锦文、罗星宇、石璐、孙源泽同学赴阿联酋·阿布扎比参加AICAS Grand Challenge 2024**</span>
-* 2024.04: <span style="color:blue">🎊 **指导的21级本科生获得天池[“AICAS 2024：通用算力大模型推理性能软硬协同优化挑战赛”](https://tianchi.aliyun.com/competition/entrance/532170?spm=a2c22.12281957.0.0.4c886d94Fr3gDe&lang=zh-cn)第二名的优异成绩（USD 3000）。恭喜梁锦文、罗星宇、石璐、孙源泽同学！**</span>
+* 2024.04: <span style="color:gray">🎊 **指导的21级本科生获得天池[“AICAS 2024：通用算力大模型推理性能软硬协同优化挑战赛”](https://tianchi.aliyun.com/competition/entrance/532170?spm=a2c22.12281957.0.0.4c886d94Fr3gDe&lang=zh-cn)第二名的优异成绩（USD 3000）。恭喜梁锦文、罗星宇、石璐、孙源泽同学！**</span>
    * 🥈🥈🥈
 	<p align="left"> 
 	<img src="AICAS.png" width="400">
 	</p>
 * 2023.12: <span style="color:gray">**One paper was accepted to AAAI 2024 (CCF-A). Congratulations Chao Chen!**</span>:
 * 2023.11: <span style="color:gray">**Invited to serve as a reviewer for CVPR 2024.**</span>
-* 2023.08: <span style="color:blue">🎊 **恭喜指导的21级本科生石璐和梁锦文同学在天池算法竞赛平台上举办的[“AFAC2023-金融数据验真-金融文档防篡改挑战赛”](https://tianchi.aliyun.com/competition/entrance/532096/introduction)中获得季军的优异成绩（¥10000）**</span>
+* 2023.08: <span style="color:gray">🎊 **恭喜指导的21级本科生石璐和梁锦文同学在天池算法竞赛平台上举办的[“AFAC2023-金融数据验真-金融文档防篡改挑战赛”](https://tianchi.aliyun.com/competition/entrance/532096/introduction)中获得季军的优异成绩（¥10000）**</span>
    * 🥉🥉🥉 
 	<p align="left"> 
 	<img src="AFAC.png" width="400">
