@@ -19,7 +19,8 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 
 ### 2025
 * <span style="color:red">**[CCF-A]**</span> CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution. Xin Liu, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2025.
-* <span style="color:red">**[CCF-A]**</span> AutoLUT: LUT-Based Image Super-Resolution with Automatic Sampling and Adaptive Residual Learning. Yuheng Xu, Shijie Yang, Xin Liu, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2025.
+* <span style="color:red">**[CCF-A]**</span> AutoLUT: LUT-Based Image Super-Resolution with Automatic Sampling and Adaptive Residual Learning. Yuheng Xu, Shijie Yang, Xin Liu, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2025.[🚀Code](https://github.com/SuperKenVery/AutoLUT
+g)
 
 ### 2024
 * <span style="color:red">**[CCF-A]**</span> [RAVSS: Robust Audio-Visual Speech Separation in Multi-Speaker Scenarios with Missing Visual Cues](https://arxiv.org/abs/2407.19224). Tianrui Pan, **Jie Liu**$\color{red}✉️$, Bohan Wang, Jie Tang, and Gangshan Wu. **ACM MM**, 2024. [🚀Code](https://github.com/pantianrui/RAVSS)
