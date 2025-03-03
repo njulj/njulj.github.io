@@ -15,23 +15,23 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<span style="color:green">* indicates the corresponding author</span>
+<span style="color:green">$\color{red}✉️$ indicates the corresponding author</span>
 
 ### 2025
-* <span style="color:red">**[CCF-A]**</span> CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution. Xin Liu, **Jie Liu***, Jie Tang, and Gangshan Wu. **CVPR**, 2025.
-* <span style="color:red">**[CCF-A]**</span> AutoLUT: LUT-Based Image Super-Resolution with Automatic Sampling and Adaptive Residual Learning. Yuheng Xu, Shijie Yang, Xin Liu, **Jie Liu***, Jie Tang, and Gangshan Wu. **CVPR**, 2025.
+* <span style="color:red">**[CCF-A]**</span> CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution. Xin Liu, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2025.
+* <span style="color:red">**[CCF-A]**</span> AutoLUT: LUT-Based Image Super-Resolution with Automatic Sampling and Adaptive Residual Learning. Yuheng Xu, Shijie Yang, Xin Liu, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2025.
 
 ### 2024
-* <span style="color:red">**[CCF-A]**</span> [RAVSS: Robust Audio-Visual Speech Separation in Multi-Speaker Scenarios with Missing Visual Cues](https://arxiv.org/abs/2407.19224). Tianrui Pan, **Jie Liu***, Bohan Wang, Jie Tang, and Gangshan Wu. **ACM MM**, 2024. [🚀Code](https://github.com/pantianrui/RAVSS)
-* <span style="color:red">**[CCF-B]**</span> [GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation](https://arxiv.org/abs/2407.10756). Haonan Wang, **Jie Liu***, Jie Tang, Gangshan Wu, Bo Xu, Yanbing Chou, and Yong Wang. **ECCV**, 2024. [🚀Code](https://github.com/haonanwang0522/GTPT?tab=readme-ov-file)
-* <span style="color:red">**[CCF-A]**</span> [Sketch and Refine: Towards Fast and Accurate Lane Detection](https://ojs.aaai.org/index.php/AAAI/article/view/27860). Chao Chen, **Jie Liu***, Chang Zhou, Jie Tang, and Gangshan Wu. **AAAI**, 2024. [🚀Code](https://github.com/passerer/SRLane)
+* <span style="color:red">**[CCF-A]**</span> [RAVSS: Robust Audio-Visual Speech Separation in Multi-Speaker Scenarios with Missing Visual Cues](https://arxiv.org/abs/2407.19224). Tianrui Pan, **Jie Liu**$\color{red}✉️$, Bohan Wang, Jie Tang, and Gangshan Wu. **ACM MM**, 2024. [🚀Code](https://github.com/pantianrui/RAVSS)
+* <span style="color:red">**[CCF-B]**</span> [GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation](https://arxiv.org/abs/2407.10756). Haonan Wang, **Jie Liu**$\color{red}✉️$, Jie Tang, Gangshan Wu, Bo Xu, Yanbing Chou, and Yong Wang. **ECCV**, 2024. [🚀Code](https://github.com/haonanwang0522/GTPT?tab=readme-ov-file)
+* <span style="color:red">**[CCF-A]**</span> [Sketch and Refine: Towards Fast and Accurate Lane Detection](https://ojs.aaai.org/index.php/AAAI/article/view/27860). Chao Chen, **Jie Liu**$\color{red}✉️$, Chang Zhou, Jie Tang, and Gangshan Wu. **AAAI**, 2024. [🚀Code](https://github.com/passerer/SRLane)
 
 ### 2023
-* <span style="color:red">**[CCF-A]**</span> [Robust Object Modeling for Visual Tracking](https://arxiv.org/abs/2308.05140). Yidong Cai, **Jie Liu***, Jie Tang, and Gangshan Wu. **ICCV**, 2023. [🚀Code](https://github.com/dawnyc/ROMTrack)
+* <span style="color:red">**[CCF-A]**</span> [Robust Object Modeling for Visual Tracking](https://arxiv.org/abs/2308.05140). Yidong Cai, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **ICCV**, 2023. [🚀Code](https://github.com/dawnyc/ROMTrack)
 
-* <span style="color:red">**[CCF-A]**</span> [Lightweight Super-Resolution Head for Human Pose Estimation](https://arxiv.org/abs/2307.16765). Haonan Wang, **Jie Liu***, Jie Tang, and Gangshan Wu. **ACM MM**, 2023. [🚀Code](https://github.com/haonanwang0522/SRPose)
+* <span style="color:red">**[CCF-A]**</span> [Lightweight Super-Resolution Head for Human Pose Estimation](https://arxiv.org/abs/2307.16765). Haonan Wang, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **ACM MM**, 2023. [🚀Code](https://github.com/haonanwang0522/SRPose)
 
-* <span style="color:red">**[CCF-A]**</span> [Video Frame Interpolation with Densely Queried Bilateral Correlation](https://arxiv.org/abs/2304.13596). Chang Zhou, **Jie Liu***, Jie Tang, and Gangshan Wu. **IJCAI**, 2023. [🚀Code](https://github.com/kinoud/DQBC)
+* <span style="color:red">**[CCF-A]**</span> [Video Frame Interpolation with Densely Queried Bilateral Correlation](https://arxiv.org/abs/2304.13596). Chang Zhou, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **IJCAI**, 2023. [🚀Code](https://github.com/kinoud/DQBC)
 
 * <span style="color:red">**[CCF-A]**</span> [From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-Resolution](https://arxiv.org/abs/2211.16776). **Jie Liu**, Chao Chen, Jie Tang, and Gangshan Wu. **AAAI**, 2023. [🚀Code](https://github.com/passerer/HPINet)
 
