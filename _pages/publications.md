@@ -18,12 +18,17 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 <span style="color:green">$\color{red}✉️$ indicates the corresponding author</span>
 
 ### 2025
-* <span style="color:red">**[CCF-A]**</span> CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution. Xin Liu, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2025.
-* <span style="color:red">**[CCF-A]**</span> [AutoLUT: LUT-Based Image Super-Resolution with Automatic Sampling and Adaptive Residual Learning.](https://www.arxiv.org/abs/2503.01565) Yuheng Xu, Shijie Yang, Xin Liu, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2025.[🚀Code](https://github.com/SuperKenVery/AutoLUT)
+* <span style="color:red">**[CCF-B]**</span> Towards Practical Real-Time Low-Latency Music Source Separation. Junyu Wu, **Jie Liu**$\color{red}✉️$, Tianrui Pan, Jie Tang, and Gangshan Wu. **ICME**, 2025. 
+
+* <span style="color:red">**[CCF-A]**</span> [CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution.](https://arxiv.org/abs/2503.06896) Xin Liu, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2025. [🚀Code](https://github.com/EquationWalker/CATANet)
+
+* <span style="color:red">**[CCF-A]**</span> [AutoLUT: LUT-Based Image Super-Resolution with Automatic Sampling and Adaptive Residual Learning.](https://www.arxiv.org/abs/2503.01565) Yuheng Xu, Shijie Yang, Xin Liu, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2025. [🚀Code](https://github.com/SuperKenVery/AutoLUT)
 
 ### 2024
 * <span style="color:red">**[CCF-A]**</span> [RAVSS: Robust Audio-Visual Speech Separation in Multi-Speaker Scenarios with Missing Visual Cues](https://arxiv.org/abs/2407.19224). Tianrui Pan, **Jie Liu**$\color{red}✉️$, Bohan Wang, Jie Tang, and Gangshan Wu. **ACM MM**, 2024. [🚀Code](https://github.com/pantianrui/RAVSS)
+
 * <span style="color:red">**[CCF-B]**</span> [GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation](https://arxiv.org/abs/2407.10756). Haonan Wang, **Jie Liu**$\color{red}✉️$, Jie Tang, Gangshan Wu, Bo Xu, Yanbing Chou, and Yong Wang. **ECCV**, 2024. [🚀Code](https://github.com/haonanwang0522/GTPT?tab=readme-ov-file)
+
 * <span style="color:red">**[CCF-A]**</span> [Sketch and Refine: Towards Fast and Accurate Lane Detection](https://ojs.aaai.org/index.php/AAAI/article/view/27860). Chao Chen, **Jie Liu**$\color{red}✉️$, Chang Zhou, Jie Tang, and Gangshan Wu. **AAAI**, 2024. [🚀Code](https://github.com/passerer/SRLane)
 
 ### 2023

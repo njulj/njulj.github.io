@@ -17,6 +17,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
 
 ## 🔥 Recent News
+* 2025.03: <span style="color:red">**One paper was accepted by ICME 2025 (CCF-B). 恭喜吴隽雨（大三）同学!**</span>:
 * 2025.02: <span style="color:red">**Two papers were accepted to CVPR 2025 (CCF-A). 恭喜刘鑫（研二）和许煜恒（大三）同学!**</span>:
 * 2024.11: <span style="color:green">**恭喜梁锦文（大四）、罗星宇（大四）、陈依言（大三）获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 2024年度“揭榜挂帅”专项赛 全国三等奖！**</span>
 * 2024.10: <span style="color:green">**Win the 1st place in the Multi-Modal Visual Pattern Recognition Challenge # Track 2 @ ICPR2024! 恭喜吴隽雨（大三）& 晁宇豪（大三）！**</span>
