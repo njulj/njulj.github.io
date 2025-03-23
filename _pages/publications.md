@@ -18,6 +18,8 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 <span style="color:green">$\color{red}✉️$ indicates the corresponding author</span>
 
 ### 2025
+* <span style="color:red">**[CCF-B]**</span> FSDM: An Efficient Video Super-Resolution Method Based On Frames-Shift Diffusion Model. Shijie Yang, Chao Chen, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **Neural Networks**, 2025. 
+
 * <span style="color:red">**[CCF-B]**</span> Towards Practical Real-Time Low-Latency Music Source Separation. Junyu Wu, **Jie Liu**$\color{red}✉️$, Tianrui Pan, Jie Tang, and Gangshan Wu. **ICME**, 2025. 
 
 * <span style="color:red">**[CCF-A]**</span> [CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution.](https://arxiv.org/abs/2503.06896) Xin Liu, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2025. [🚀Code](https://github.com/EquationWalker/CATANet)
