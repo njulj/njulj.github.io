@@ -17,6 +17,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
 
 ## 🔥 Recent News
+* 2025.06: <span style="color:red">**Our ACL paper was selected as Oral Presentation!**</span>
 * 2025.05: <span style="color:red">**One paper was accepted by ACL 2025 Main (CCF-A). Congratulations Tianrui Pan!**</span>
 * 2025.03: <span style="color:red">**One paper was accepted by Neural Networks (CCF-B). Congratulations Shijie Yang!（研二）**</span>
 * 2025.03: <span style="color:red">**One paper was accepted by ICME 2025 (CCF-B). 恭喜吴隽雨（大三）同学!**</span>:
