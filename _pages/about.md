@@ -9,6 +9,8 @@ redirect_from:
 ---
 🐳 课题组正招收2026年推免生（计算机学院/人工智能学院），欢迎与我（Email: liujie@nju.edu.cn）联系。课题组设备资源充足，每月会为专硕提供住宿补贴！
 
+<span style="color:red">**课题组正招收26年入学的申请-考核制博士，欢迎联系！**</span>
+
 ## Biography
 I am working as an assistant researcher in the Department of Computer Science and Technology at Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/), [Prof.Limin Wang](https://wanglimin.github.io/), and [Prof.Gangshan Wu](http://mcg.nju.edu.cn/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
