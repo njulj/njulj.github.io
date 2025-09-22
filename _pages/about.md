@@ -17,6 +17,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
 
 ## 🔥 Recent News
+* 2025.09: <span style="color:red">**恭喜许煜恒同学《面向LUT超分辨率模型的纹理增强与存储压缩技术研究 》获批国家自然科学基金青年学生基础研究项目（本科生）!**</span>
 * 2025.06: <span style="color:red">**Our ACL paper was selected as Oral Presentation!**</span>
 * 2025.05: <span style="color:red">**One paper was accepted by ACL 2025 Main (CCF-A). Congratulations Tianrui Pan!**</span>
 * 2025.03: <span style="color:red">**One paper was accepted by Neural Networks (CCF-B). Congratulations Shijie Yang!（研二）**</span>
