@@ -19,6 +19,13 @@ My research interest broadly includes machine learning and computer vision. Spec
 Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
 
 ## 🔥 Recent News
+* 2025.11: <span style="color:red">**恭喜研一的张明轩、陈宇宁、张朱昊、孙飞宇、李嘉伟同学获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 “人工智能+”挑战赛 全国特等奖！**</span>
+* 2025.11: <span style="color:red">**恭喜大三的周擎、黄伟轩、程启航、陈巧、刘鑫鑫同学获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 2025年度“揭榜挂帅”专项赛 全国三等奖！**</span>
+* 2025.10: <span style="color:red">**Win the 2nd place in the MAC 2025: the 2nd Micro-Action Analysis Grand Challenge @ MM2025! 恭喜罗星宇同学（研一）！**</span>
+   * 🥈🥈🥈
+   <p align="left"> 
+   <img src="MAC25.png" width="400">
+	</p>
 * 2025.09: <span style="color:red">**恭喜许煜恒同学《面向LUT超分辨率模型的纹理增强与存储压缩技术研究 》获批国家自然科学基金青年学生基础研究项目（本科生）!**</span>
 * 2025.06: <span style="color:red">**Our ACL paper was selected as Oral Presentation!**</span>
 * 2025.05: <span style="color:red">**One paper was accepted by ACL 2025 Main (CCF-A). Congratulations Tianrui Pan!**</span>
