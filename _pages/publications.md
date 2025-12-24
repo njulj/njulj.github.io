@@ -18,6 +18,8 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 <span style="color:green">$\color{red}✉️$ indicates the corresponding author</span>
 
 ### 2025
+* <span style="color:red">**[CCF T1]**</span> 基于多尺度特征自适应调制的单图像超分辨率网络. 沈伟露, **刘杰**$\color{red}✉️$, 唐杰, 武港山. **《电子学报》**, 2025. 
+
 * <span style="color:red">**[CCF-A]**</span> [In-the-wild Audio Spatialization with Flexible Text-guided Localization.](https://arxiv.org/pdf/2506.00927) Tianrui Pan, **Jie Liu**$\color{red}✉️$, Zewen Huang, Jie Tang, and Gangshan Wu. **ACL Main (Oral)**, 2025. 
 
 * <span style="color:red">**[CCF-B]**</span> [FSDM: An Efficient Video Super-Resolution Method Based On Frames-Shift Diffusion Model.](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003144) Shijie Yang, Chao Chen, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **Neural Networks**, 2025. 

@@ -88,6 +88,8 @@ Outstanding PhD candidate of Nanjing University （南京大学提升B计划）
     * 2023年春季学期（理论部分）
     * 2023年秋季学期（PA实验） 
     * 2024年秋季学期（计算机+AI+匡院 PA实验）
+* 教学论文
+       * 袁春风，苏 丰，吴海军，余子濠，汪 亮，刘 杰，朱光辉，"计算机系统导论课程实践项目及实践体系建设"，《计算机教育》
 
 ## Academic Services
 * Reviewer
