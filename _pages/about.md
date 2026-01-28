@@ -9,36 +9,35 @@ redirect_from:
 ---
 🐳 课题组正招收2026年推免生（计算机学院/人工智能学院），欢迎与我（Email: liujie@nju.edu.cn）联系。课题组设备资源充足，每月会为专硕提供住宿补贴！
 
-<span style="color:red">**课题组正招收26年入学的申请-考核制博士，欢迎联系！**</span>
-
 ## Biography
-I am working as an assistant researcher in the Department of Computer Science and Technology at Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/), [Prof.Limin Wang](https://wanglimin.github.io/), and [Prof.Gangshan Wu](http://mcg.nju.edu.cn/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
+I am working as an associate researcher in the Department of Computer Science and Technology at Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/), [Prof.Limin Wang](https://wanglimin.github.io/), and [Prof.Gangshan Wu](http://mcg.nju.edu.cn/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
 My research interest broadly includes machine learning and computer vision. Specifically, I focus on image/video restoration (e.g., super-resolution), video interpolation, pose estimation, visual tracking, etc. 
 
 Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
 
 ## 🔥 Recent News
-* 2025.11: <span style="color:red">**恭喜研一的张明轩、陈宇宁、张朱昊、孙飞宇、李嘉伟同学获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 “人工智能+”挑战赛 全国特等奖！**</span>[链接](https://mp.weixin.qq.com/s/Rzbuh9of7G2_tolubgal-Q)
-* 2025.11: <span style="color:red">**恭喜大三的周擎、黄伟轩、程启航、陈巧、刘鑫鑫同学获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 2025年度“揭榜挂帅”专项赛 全国三等奖！**</span>[链接](https://mp.weixin.qq.com/s/si2J3FAXIx3eScu7UDhzHg)
-* 2025.10: <span style="color:red">**Win the 2nd place in the MAC 2025: the 2nd Micro-Action Analysis Grand Challenge @ MM2025! 恭喜罗星宇同学（研一）！**</span>
+* 2026.01: <span style="color:blue">**Our paper "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates" was accepted by IJCV (CCF-A). Congratulations Xingyu Luo!**</span>
+* 2025.11: <span style="color:gray">**恭喜研一的张明轩、陈宇宁、张朱昊、孙飞宇、李嘉伟同学获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 “人工智能+”挑战赛 全国特等奖！**</span>[链接](https://mp.weixin.qq.com/s/Rzbuh9of7G2_tolubgal-Q)
+* 2025.11: <span style="color:gray">**恭喜大三的周擎、黄伟轩、程启航、陈巧、刘鑫鑫同学获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 2025年度“揭榜挂帅”专项赛 全国三等奖！**</span>[链接](https://mp.weixin.qq.com/s/si2J3FAXIx3eScu7UDhzHg)
+* 2025.10: <span style="color:gray">**Win the 2nd place in the MAC 2025: the 2nd Micro-Action Analysis Grand Challenge @ MM2025! 恭喜罗星宇同学（研一）！**</span>
    * 🥈🥈🥈
    <p align="left"> 
    <img src="MAC25.png" width="400">
 	</p>
-* 2025.09: <span style="color:red">**恭喜许煜恒同学《面向LUT超分辨率模型的纹理增强与存储压缩技术研究 》获批国家自然科学基金青年学生基础研究项目（本科生）!**</span>
-* 2025.06: <span style="color:red">**Our ACL paper was selected as Oral Presentation!**</span>
-* 2025.05: <span style="color:red">**One paper was accepted by ACL 2025 Main (CCF-A). Congratulations Tianrui Pan!**</span>
-* 2025.03: <span style="color:red">**One paper was accepted by Neural Networks (CCF-B). Congratulations Shijie Yang!（研二）**</span>
-* 2025.03: <span style="color:red">**One paper was accepted by ICME 2025 (CCF-B). 恭喜吴隽雨（大三）同学!**</span>:
-* 2025.02: <span style="color:red">**Two papers were accepted to CVPR 2025 (CCF-A). 恭喜刘鑫（研二）和许煜恒（大三）同学!**</span>:
-* 2024.11: <span style="color:green">**恭喜梁锦文（大四）、罗星宇（大四）、陈依言（大三）获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 2024年度“揭榜挂帅”专项赛 全国三等奖！**</span>
-* 2024.10: <span style="color:green">**Win the 1st place in the Multi-Modal Visual Pattern Recognition Challenge # Track 2 @ ICPR2024! 恭喜吴隽雨（大三）& 晁宇豪（大三）！**</span>
+* 2025.09: <span style="color:gray">**恭喜许煜恒同学《面向LUT超分辨率模型的纹理增强与存储压缩技术研究 》获批国家自然科学基金青年学生基础研究项目（本科生）!**</span>
+* 2025.06: <span style="color:gray">**Our ACL paper was selected as Oral Presentation!**</span>
+* 2025.05: <span style="color:gray">**One paper was accepted by ACL 2025 Main (CCF-A). Congratulations Tianrui Pan!**</span>
+* 2025.03: <span style="color:gray">**One paper was accepted by Neural Networks (CCF-B). Congratulations Shijie Yang!（研二）**</span>
+* 2025.03: <span style="color:gray">**One paper was accepted by ICME 2025 (CCF-B). 恭喜吴隽雨（大三）同学!**</span>:
+* 2025.02: <span style="color:gray">**Two papers were accepted to CVPR 2025 (CCF-A). 恭喜刘鑫（研二）和许煜恒（大三）同学!**</span>:
+* 2024.11: <span style="color:gray">**恭喜梁锦文（大四）、罗星宇（大四）、陈依言（大三）获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 2024年度“揭榜挂帅”专项赛 全国三等奖！**</span>
+* 2024.10: <span style="color:gray">**Win the 1st place in the Multi-Modal Visual Pattern Recognition Challenge # Track 2 @ ICPR2024! 恭喜吴隽雨（大三）& 晁宇豪（大三）！**</span>
    * 🥇🥇🥇
    <p align="left"> 
 	<img src="ICPR24.jpg" width="400">
 	</p>
-* 2024.10: <span style="color:green">**恭喜林彦铠同学（大三）获得昇腾AI原生创新算子挑战赛（S2赛季）优秀奖！**</span>
+* 2024.10: <span style="color:gray">**恭喜林彦铠同学（大三）获得昇腾AI原生创新算子挑战赛（S2赛季）优秀奖！**</span>
 * 2024.08: <span style="color:gray">**Invited to serve as a reviewer for AAAI & ICLR 2025.**</span>
 * 2024.07: <span style="color:gray">**One paper was accepted to ACM MM 2024. Congratulations Tianrui Pan!**</span>
 * 2024.07: <span style="color:gray">**One paper was accepted to ECCV 2024. Congratulations Haonan Wang!**</span>
@@ -56,7 +55,7 @@ Currently, I am more interested in multi-modal learning and efficient machine le
 	<p align="left"> 
 	<img src="AFAC.png" width="400">
 	</p>
-* 2023.08: <span style="color:green">**荣获AFAC2023金融智能挑战赛“优秀指导教师”!**</span>
+* 2023.08: <span style="color:gray">**荣获AFAC2023金融智能挑战赛“优秀指导教师”!**</span>
 * 2023.07: <span style="color:gray">**One paper was accepted to ACM MM 2023 (CCF-A). Congratulations Haonan Wang!**</span>:
   * ["Lightweight Super-Resolution Head for Human Pose Estimation"](https://arxiv.org/abs/2307.16765). Haonan Wang, **Jie Liu\***, Jie Tang, and Gangshan Wu. (**\*** indicates corresponding author) 
 * 2023.07: <span style="color:gray">**One paper was accepted to ICCV 2023 (CCF-A). Congratulations Yidong Cai!**</span>:
