@@ -17,7 +17,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
 
 ## 🔥 Recent News
-* 2026.01: <span style="color:blue">**Our paper "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates" was accepted by IJCV (CCF-A). Congratulations Xingyu Luo!**</span>
+* 2026.01: <span style="color:blue">**Our paper "[GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates](https://link.springer.com/article/10.1007/s11263-026-02774-7)" was accepted by IJCV (CCF-A). Congratulations Xingyu Luo!**</span>
 * 2025.11: <span style="color:gray">**恭喜研一的张明轩、陈宇宁、张朱昊、孙飞宇、李嘉伟同学获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 “人工智能+”挑战赛 全国特等奖！**</span>[链接](https://mp.weixin.qq.com/s/Rzbuh9of7G2_tolubgal-Q)
 * 2025.11: <span style="color:gray">**恭喜大三的周擎、黄伟轩、程启航、陈巧、刘鑫鑫同学获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 2025年度“揭榜挂帅”专项赛 全国三等奖！**</span>[链接](https://mp.weixin.qq.com/s/si2J3FAXIx3eScu7UDhzHg)
 * 2025.10: <span style="color:gray">**Win the 2nd place in the MAC 2025: the 2nd Micro-Action Analysis Grand Challenge @ MM2025! 恭喜罗星宇同学（研一）！**</span>
