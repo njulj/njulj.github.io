@@ -18,6 +18,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 <span style="color:blue">$\color{red}✉️$ indicates the corresponding author</span>
 
 ### 2026
+* <span style="color:red">**[CCF-A]**</span> [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](). Lei Jiang, Xin Liu, Xinze Tong, Zhiliang Li, **Jie Liu**$\color{red}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2026. 
 * <span style="color:red">**[CCF-A]**</span> [GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates](https://link.springer.com/article/10.1007/s11263-026-02774-7). Xingyu Luo, Yidong Cai, **Jie Liu**$\color{red}✉️$, Jie Tang, Gangshan Wu, and Limin Wang. **IJCV**, 2026. [🚀Code](https://github.com/Confetti-lxy/GLAD)
 
 
