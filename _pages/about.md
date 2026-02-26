@@ -16,6 +16,7 @@ My research interest broadly includes machine learning and computer vision. Spec
 
 Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
 
+
 ## 🔥 Recent News
 * 2026.02: <span style="color:blue">**Our paper "[Disentangled Textual Priors for Diffusion-based Image Super-Resolution]()" was accepted by CVPR 2026 (CCF-A). Congratulations Lei Jiang!**</span>
 * 2026.01: <span style="color:blue">**Our paper "[GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates](https://link.springer.com/article/10.1007/s11263-026-02774-7)" was accepted by IJCV (CCF-A). Congratulations Xingyu Luo!**</span>
@@ -76,6 +77,29 @@ Currently, I am more interested in multi-modal learning and efficient machine le
   * [Memory Recursive Network for Single Image Super-Resolution](https://dl.acm.org/doi/abs/10.1145/3394171.3413696). **Jie Liu**, Minqiang Zou, Jie Tang, Gangshan Wu.
 * 2020.02: One paper was accepted to CVPR 2020 (CCF-A).
   * [Residual Feature Aggregation Network for Image Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html). **Jie Liu**, Wenjie Zhang, Yuting Tang, Jie Tang, Gangshan Wu.
+  
+## Research Topics
+* Low-Level
+	* Super-resolution for video streaming
+	* Super-resolution for mobile devices 
+	* Real-world super-resolution
+	* Efficient image/video generation
+	* Others
+* MLLM
+	* MLLM for mobile devices
+	* MLLM for image quality assessment
+	* Others
+* Understanding
+	* Degraded image understanding
+	* Multi-modal tracking  	
+	* Others
+* Speech
+	* Audio-visual speech separation
+	* Speech agent 
+	* Others
+* Embodied
+	* Efficient VLA 
+	* Others
 
 ## Honors and Awards
 * National Scholarships for Doctoral Students （博士研究生国家奖学金）
