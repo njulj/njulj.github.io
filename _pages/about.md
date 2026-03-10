@@ -98,9 +98,14 @@ Currently, I am more interested in multi-modal learning and efficient machine le
 	* Audio-visual speech separation
 	* Speech agent 
 	* Others
-* Embodied
-	* Efficient VLA 
-	* Others
+* Embodied Perception
+
+
+## Funds and Projects
+* 国家青年科学基金项目(C类)，2025-01-01 至 2027-12-31，主持
+*  江苏省青年基金项目，2024-09 至 2027-08，主持
+*  科技创新2030-“新一代人工智能”重大项目，通用视频理解的基础模型与方法体系，2023-01 至 2025-12，参与
+*  国家重点研发计划-课题，
 
 ## Honors and Awards
 * National Scholarships for Doctoral Students （博士研究生国家奖学金）
@@ -110,11 +115,14 @@ Outstanding PhD candidate of Nanjing University （南京大学提升B计划）
 
 ## Teaching
 * 计算机系统基础（ICS）
-    * 2023年春季学期（理论部分）
-    * 2023年秋季学期（PA实验） 
-    * 2024年秋季学期（计算机+AI+匡院 PA实验）
+	* 2025年秋季学期（计算机+AI+匡院 PA实验）
+	* 2024年秋季学期（计算机+AI+匡院 PA实验）
+	*  2023年秋季学期（PA实验） 
+	*  2023年春季学期（理论部分）
 * 教学论文
 	* 袁春风，苏 丰，吴海军，余子濠，汪 亮，刘 杰，朱光辉，"计算机系统导论课程实践项目及实践体系建设"，《计算机教育》
+* 教材出版
+	* 《计算机系统实践教程：基于x86+Linux平台》，苏 丰，汪 亮，刘 杰，王慧妍，朱光辉，余子濠，鲍培明，袁春风
 
 ## Academic Services
 * Reviewer
