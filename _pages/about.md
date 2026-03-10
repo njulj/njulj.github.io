@@ -105,7 +105,7 @@ Currently, I am more interested in multi-modal learning and efficient machine le
 * 国家青年科学基金项目(C类)，2025-01-01 至 2027-12-31，主持
 *  江苏省青年基金项目，2024-09 至 2027-08，主持
 *  科技创新2030-“新一代人工智能”重大项目，通用视频理解的基础模型与方法体系，2023-01 至 2025-12，参与
-*  国家重点研发计划-课题，
+*  国家重点研发计划-课题，参与
 
 ## Honors and Awards
 * National Scholarships for Doctoral Students （博士研究生国家奖学金）
