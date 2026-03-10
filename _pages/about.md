@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🐳 课题组正招收2026年考研/推免生（计算机学院/人工智能学院），欢迎与我（Email: liujie@nju.edu.cn）联系。
+🐳 本人即将入职智能科学与技术学院担任助理教授，现招收2026年推免直博1~2名，硕士2~3名，欢迎与我（liujie@nju.edu.cn）联系。
 
 ## Biography
-I am working as an associate researcher in the Department of Computer Science and Technology at Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/), [Prof.Limin Wang](https://wanglimin.github.io/), and [Prof.Gangshan Wu](http://mcg.nju.edu.cn/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
+I will be working as an Assistant Professor at the School of Artificial Intelligence and Science, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
 My research interest broadly includes machine learning and computer vision. Specifically, I focus on image/video restoration (e.g., super-resolution), video interpolation, pose estimation, visual tracking, etc. 
 
@@ -18,7 +18,7 @@ Currently, I am more interested in multi-modal learning and efficient machine le
 
 
 ## 🔥 Recent News
-* 2026.02: <span style="color:purple">**Our paper [Disentangled Textual Priors for Diffusion-based Image Super-Resolution]() was accepted by CVPR 2026 (CCF-A). Congratulations Lei Jiang!**</span>
+* 2026.02: <span style="color:purple">**Our paper [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](https://arxiv.org/abs/2603.07430) was accepted by CVPR 2026 (CCF-A). Congratulations Lei Jiang!**</span>
 * 2026.01: <span style="color:purple">**Our paper [GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates](https://link.springer.com/article/10.1007/s11263-026-02774-7) was accepted by IJCV (CCF-A). Congratulations Xingyu Luo!**</span>
 * 2025.12: <span style="color:orange">**“挑战杯”获奖作品被《扬子晚报》追踪报导！**</span>[链接](https://wap.yzwb.net/wap/news/4891087.html)
 * 2025.11: <span style="color:gray">**恭喜研一的张明轩、陈宇宁、张朱昊、孙飞宇、李嘉伟同学获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛 “人工智能+”挑战赛 全国特等奖！**</span>[链接](https://mp.weixin.qq.com/s/Rzbuh9of7G2_tolubgal-Q)
