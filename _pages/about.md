@@ -84,22 +84,20 @@ Currently, I am more interested in multi-modal learning and efficient machine le
 	* Super-resolution for video streaming
 	* Super-resolution for mobile devices 
 	* Real-world super-resolution
-	* Efficient image/video generation
-	* Others
-* MLLM
-	* MLLM for mobile devices
+	* Efficient/Mobile image/video generation
+* MLLM & LLM
+	* MLLM/LLM for mobile devices
 	* MLLM for image quality assessment
-	* Others
 * Understanding
 	* Degraded image understanding
 	* Multi-modal tracking  	
-	* Others
-* Speech
+* Audio & Speech
 	* Audio-visual speech separation
-	* Speech agent 
-	* Others
+	* Audio-visual active speaker detection 
+	* Dialog agent 
 * Embodied Perception
-
+	* Visual-Audio Navigation (VAN)
+	* Embodied dialog localization
 
 ## Funds and Projects
 * 国家青年科学基金项目(C类)，2025-01-01 至 2027-12-31，主持
