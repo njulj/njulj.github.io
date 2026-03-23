@@ -18,6 +18,7 @@ Currently, I am more interested in multi-modal learning and efficient machine le
 
 
 ## 🔥 Recent News
+* 2026.03: <span style="color:purple">**We secured third place in the NTIRE Efficient Super-Resolution Challenge, held at CVPR 2026. 恭喜雷业成（大二）和闵文楷（大二）！**</span>
 * 2026.02: <span style="color:purple">**Our paper [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](https://arxiv.org/abs/2603.07430) was accepted by CVPR 2026 (CCF-A). Congratulations Lei Jiang!**</span>
 * 2026.01: <span style="color:purple">**Our paper [GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates](https://link.springer.com/article/10.1007/s11263-026-02774-7) was accepted by IJCV (CCF-A). Congratulations Xingyu Luo!**</span>
 * 2025.12: <span style="color:orange">**“挑战杯”获奖作品被《扬子晚报》追踪报导！**</span>[链接](https://wap.yzwb.net/wap/news/4891087.html)
