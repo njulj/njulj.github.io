@@ -12,10 +12,7 @@ redirect_from:
 ## Biography
 I will be working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
-My research interest broadly includes machine learning and computer vision. Specifically, I focus on image/video restoration (e.g., super-resolution), video interpolation, pose estimation, visual tracking, etc. 
-
-Currently, I am more interested in multi-modal learning and efficient machine learning, including embodied intelligence, open scene perception, and large model acceleration, etc.
-
+My research interest broadly includes deep learning, computer vision and speech processing. Specifically, I focus on image/video restoration and generation, multimodal perception and understanding, efficient MLLM/LLM, agentic system, etc. 
 
 ## 🔥 Recent News
 
@@ -82,24 +79,22 @@ Currently, I am more interested in multi-modal learning and efficient machine le
   * [Residual Feature Aggregation Network for Image Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html). **Jie Liu**, Wenjie Zhang, Yuting Tang, Jie Tang, Gangshan Wu.
   
 ## Research Topics
-* Low-Level
-	* Super-resolution for video streaming
-	* Super-resolution for mobile devices 
+* Image/video restoration and generation
+	* Image restoration agent
 	* Real-world super-resolution
-	* Efficient/Mobile image/video generation
+	* Super-resolution for video streaming
+	* Efficient image/video generation
+* Multimodal perception and understanding
+	* Degraded image understanding (e.g., caption)
+	* Multimodal tracking
+	* Embodied Visual-Audio Navigation (VAN)
 * MLLM & LLM
 	* MLLM/LLM for mobile devices
 	* MLLM for image quality assessment
-* Understanding
-	* Degraded image understanding
-	* Multi-modal tracking  	
-* Audio & Speech
+* Speech processing
 	* Audio-visual speech separation
-	* Audio-visual active speaker detection 
-	* Dialog agent 
-* Embodied Perception
-	* Visual-Audio Navigation (VAN)
-	* Embodied dialog localization
+	* Audio-visual Active Speaker Detection (ASD) 
+	* Speech agent 
 
 ## Funds and Projects
 * 国家青年科学基金项目(C类)，2025-01-01 至 2027-12-31，主持
