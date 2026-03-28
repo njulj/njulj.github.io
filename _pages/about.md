@@ -84,6 +84,7 @@ My research interest broadly includes deep learning, computer vision and speech 
 	* Real-world super-resolution
 	* Super-resolution for video streaming
 	* Efficient image/video generation
+	* Scientific image enhancement
 * Multimodal perception and understanding
 	* Degraded image understanding (e.g., caption)
 	* Multimodal tracking
