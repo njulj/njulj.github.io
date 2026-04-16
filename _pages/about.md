@@ -78,24 +78,27 @@ My research interest broadly includes deep learning, computer vision and speech 
 * 2020.02: One paper was accepted to CVPR 2020 (CCF-A).
   * [Residual Feature Aggregation Network for Image Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html). **Jie Liu**, Wenjie Zhang, Yuting Tang, Jie Tang, Gangshan Wu.
   
-## Research Topics
+## Research Topics (Series A)
 * Image/video restoration and generation
-	* Image restoration agent
 	* Real-world super-resolution
-	* Super-resolution for video streaming
 	* Efficient image/video generation
 	* Scientific image enhancement
 * Multimodal perception and understanding
-	* Degraded image understanding (e.g., caption)
 	* Multimodal tracking
-	* Embodied Visual-Audio Navigation (VAN)
+	* Audio-visual tasks
 * MLLM & LLM
 	* MLLM/LLM for mobile devices
 	* MLLM for image quality assessment
-* Speech processing
-	* Audio-visual speech separation
-	* Audio-visual Active Speaker Detection (ASD) 
-	* Speech agent 
+
+## Research Topics (Series B)
+* Low-level foundation model
+	* Foundation model for image restoration
+* World model
+	* World model in embodied ai
+	* World model in video generation
+* AI agents
+	* Image restoration agent
+	* GUI agent
 
 ## Funds and Projects
 * 国家青年科学基金项目(C类)，2025-01-01 至 2027-12-31，主持
