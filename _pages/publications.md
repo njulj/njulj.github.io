@@ -23,7 +23,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 
 
 ### 2025
-* <span style="color:orange">**[CCF T1]**</span> 基于多尺度特征自适应调制的单图像超分辨率网络. 沈伟露, **刘杰**$\color{purple}✉️$, 唐杰, 武港山. **《电子学报》**, 2025. 
+* <span style="color:orange">**[中文 CCF A]**</span> [基于多尺度特征自适应调制的单图像超分辨率网络](https://www.ejournal.org.cn/thesisDetails#10.12263/DZXB.20250032&lang=zh). 沈伟露, **刘杰**$\color{purple}✉️$, 唐杰, 武港山. **《电子学报》**, 2025. 
 
 * <span style="color:orange">**[CCF-A]**</span> [In-the-wild Audio Spatialization with Flexible Text-guided Localization.](https://arxiv.org/pdf/2506.00927) Tianrui Pan, **Jie Liu**$\color{purple}✉️$, Zewen Huang, Jie Tang, and Gangshan Wu. **ACL Main (Oral)**, 2025. [🚀Code](https://github.com/Alice01010101/TASU)
  
