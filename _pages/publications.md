@@ -20,7 +20,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 ### 2026
 * <span style="color:orange">**[CCF-A]**</span> [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](https://arxiv.org/abs/2603.07430). Lei Jiang, Xin Liu, Xinze Tong, Zhiliang Li, **Jie Liu**$\color{purple}✉️$, Jie Tang, and Gangshan Wu. **CVPR**, 2026. [🚀Code](https://github.com/JL6666JL/DTPSR)
 * <span style="color:orange">**[CCF-A]**</span> [GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates](https://link.springer.com/article/10.1007/s11263-026-02774-7). Xingyu Luo, Yidong Cai, **Jie Liu**$\color{purple}✉️$, Jie Tang, Gangshan Wu, and Limin Wang. **IJCV**, 2026. [🚀Code](https://github.com/Confetti-lxy/GLAD)
-* <span style="color:orange">**[CCF-B]**</span> [RASR: Retrieval-Augmented Super Resolution for Practical Reference-Based Image Restoration](https://arxiv.org/pdf/2508.09449?). Jiaqi Yan, Shuning Xu, Xiangyu Chen$\color{purple}✉️$, Dell Zhang, Jiantao Zhou, Jie Tang, GangshanWu, **Jie Liu**$\color{purple}✉️$. **ISCAS**, 2026.
+* <span style="color:orange">**[CCF-B]**</span> [RASR: Retrieval-Augmented Super Resolution for Practical Reference-Based Image Restoration](https://arxiv.org/pdf/2508.09449?). 
 
 
 ### 2025
