@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🐳 本人即将入职智能科学与技术学院担任助理教授，现招收2027年入学申请-考核博士1~2名，硕士1~2名，欢迎与我（liujie@nju.edu.cn）联系。
+🐳 招收2027年入学博士1~2名，硕士1~2名，欢迎与我（liujie@nju.edu.cn）联系。
 
 ## Biography
 I will be working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
