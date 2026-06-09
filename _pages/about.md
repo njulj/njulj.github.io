@@ -15,7 +15,7 @@ I will be working as an Assistant Professor at the School of Intelligence Scienc
 My research interest broadly includes deep learning, computer vision and speech processing. Specifically, I focus on image/video restoration and generation, multimodal perception and understanding, efficient MLLM/LLM, agentic system, etc. 
 
 ## 🔥 Recent News
-
+* 2026.06: <span style="color:purple">**We secured third place in the REAL-I 2026 — The 1st Real-World Embodied AI Learning Challenge, held at ICRA 2026. 恭喜陈宇宁、孙飞宇和张明轩同学！**</span>
 * 2026.03: <span style="color:purple">**We secured third place in the NTIRE Efficient Super-Resolution Challenge, held at CVPR 2026. 恭喜雷业成（大二）和闵文楷（大二）！**</span>
 * 2026.02: <span style="color:purple">**Our paper [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](https://arxiv.org/abs/2603.07430) was accepted by CVPR 2026 (CCF-A). Congratulations Lei Jiang!**</span>
 * 2026.01: <span style="color:purple">**Our paper [GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates](https://link.springer.com/article/10.1007/s11263-026-02774-7) was accepted by IJCV (CCF-A). Congratulations Xingyu Luo!**</span>
