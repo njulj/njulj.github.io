@@ -10,11 +10,12 @@ redirect_from:
 🐳 目前已入职南大苏州智能科学与技术学院担任助理教授，招收2027年入学博士1~2名，硕士1~2名，欢迎与我（liujie@nju.edu.cn）联系。
 
 ## Biography
-I will be working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
+I am working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
 My research interest broadly includes deep learning, computer vision and speech processing. Specifically, I focus on image/video restoration and generation, multimodal perception and understanding, efficient MLLM/LLM, agentic system, etc. 
 
 ## 🔥 Recent News
+* 2026.07: <span style="color:purple">**Our paper "Enabling Proactive Spoken Turns via a Generalized Style-Aware Full-Duplex Framework" was accepted by MM 2026 (CCF-A). Congratulations Tianrui Pan!**</span>
 * 2026.06: <span style="color:purple">**We secured third place in the REAL-I 2026 — The 1st Real-World Embodied AI Learning Challenge, held at ICRA 2026. 恭喜陈宇宁、孙飞宇和张明轩同学！**</span>
 * 2026.03: <span style="color:purple">**We secured third place in the NTIRE Efficient Super-Resolution Challenge, held at CVPR 2026. 恭喜雷业成（大二）和闵文楷（大二）！**</span>
 * 2026.02: <span style="color:purple">**Our paper [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](https://arxiv.org/abs/2603.07430) was accepted by CVPR 2026 (CCF-A). Congratulations Lei Jiang!**</span>
