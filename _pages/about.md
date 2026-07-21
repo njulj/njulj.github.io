@@ -370,21 +370,21 @@ My research interest broadly includes deep learning, computer vision and speech 
 
 <div class="featured-publications">
   <div class="featured-publication">
-    <div class="preview"><img src="/assets/img/publication_preview/dtpsr.png" alt="DTPSR paper PDF preview"></div>
-    <div>
-      <div class="paper-title">Disentangled Textual Priors for Diffusion-based Image Super-Resolution</div>
-      <div class="paper-authors">Lei Jiang, Xin Liu, Xinze Tong, Zhiliang Li, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Jie Tang, and Gangshan Wu</div>
-      <div class="paper-venue"><em>CVPR 2026</em></div>
-      <div class="paper-links"><a href="https://arxiv.org/abs/2603.07430">PDF</a><a href="https://github.com/JL6666JL/DTPSR">Code</a><a class="github-stars" href="https://github.com/JL6666JL/DTPSR/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>15</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=1602891317005625924" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>1</a></div>
-    </div>
-  </div>
-  <div class="featured-publication">
     <div class="preview"><img src="/assets/img/publication_preview/glad.png" alt="GLAD paper PDF preview"></div>
     <div>
       <div class="paper-title">GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates</div>
       <div class="paper-authors">Xingyu Luo, Yidong Cai, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Jie Tang, Gangshan Wu, and Limin Wang</div>
       <div class="paper-venue"><em>IJCV 2026</em></div>
       <div class="paper-links"><a href="https://link.springer.com/article/10.1007/s11263-026-02774-7">Paper</a><a href="https://github.com/Confetti-lxy/GLAD">Code</a><a class="github-stars" href="https://github.com/Confetti-lxy/GLAD/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>6</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=8484577720452671235" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>1</a></div>
+    </div>
+  </div>
+  <div class="featured-publication">
+    <div class="preview"><img src="/assets/img/publication_preview/dtpsr.png" alt="DTPSR paper PDF preview"></div>
+    <div>
+      <div class="paper-title">Disentangled Textual Priors for Diffusion-based Image Super-Resolution</div>
+      <div class="paper-authors">Lei Jiang, Xin Liu, Xinze Tong, Zhiliang Li, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Jie Tang, and Gangshan Wu</div>
+      <div class="paper-venue"><em>CVPR 2026</em></div>
+      <div class="paper-links"><a href="https://arxiv.org/abs/2603.07430">PDF</a><a href="https://github.com/JL6666JL/DTPSR">Code</a><a class="github-stars" href="https://github.com/JL6666JL/DTPSR/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>15</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=1602891317005625924" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>1</a></div>
     </div>
   </div>
   <div class="featured-publication">

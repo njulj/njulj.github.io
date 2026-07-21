@@ -39,3 +39,19 @@
     margin-left: auto;
   }
 }
+
+@media (max-width: 575.98px) {
+  body {
+    padding-bottom: 0 !important;
+  }
+
+  footer.fixed-bottom {
+    position: static !important;
+    font-size: 0.65rem;
+    line-height: 1.35;
+  }
+
+  footer.fixed-bottom .container {
+    padding: 0.5rem 1rem;
+  }
+}
