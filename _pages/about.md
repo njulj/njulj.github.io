@@ -3,7 +3,7 @@ layout: about
 permalink: /
 title: about
 nav: false
-subtitle: <a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a><br>Nanjing University, Suzhou · Jiangsu, China
+subtitle: <span class="academic-title">助理教授 (特聘研究员) · 博导</span><br><a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a><br>Nanjing University, Suzhou · Jiangsu, China
 profile:
   align: right
   image: prof_pic.jpg
@@ -83,6 +83,11 @@ redirect_from:
 
   .post-header .desc a:hover {
     color: var(--about-accent-hover);
+  }
+
+  .post-header .academic-title {
+    color: var(--about-accent);
+    font-weight: 550;
   }
 
   .post-header {
