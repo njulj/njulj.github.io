@@ -172,6 +172,45 @@ redirect_from:
     margin: 0 0.28rem;
   }
 
+  .research-topics {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 2rem;
+    margin: 0.35rem 0 1.6rem;
+    border-top: 1px solid rgb(63 113 133 / 22%);
+  }
+
+  .research-topic {
+    display: grid;
+    grid-template-columns: 1.45rem 1fr;
+    gap: 0.65rem;
+    align-content: start;
+    padding: 0.9rem 0;
+    border-bottom: 1px solid rgb(63 113 133 / 16%);
+  }
+
+  .research-topic-icon {
+    padding-top: 0.08rem;
+    color: var(--about-accent);
+    font-size: 0.95rem;
+    text-align: center;
+  }
+
+  .research-topic h3 {
+    margin: 0 0 0.2rem;
+    color: var(--about-accent);
+    font-size: 0.98rem;
+    font-weight: 550;
+    line-height: 1.35;
+  }
+
+  .research-topic p {
+    margin: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.86rem;
+    line-height: 1.45;
+  }
+
   .featured-publications {
     margin-top: 0.75rem;
   }
@@ -278,6 +317,10 @@ redirect_from:
       width: 100%;
     }
 
+    .research-topics {
+      grid-template-columns: 1fr;
+    }
+
     .featured-publication {
       grid-template-columns: 1fr;
       gap: 0.75rem;
@@ -295,6 +338,31 @@ redirect_from:
 I am working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
 My research interest broadly includes deep learning, computer vision and speech processing. Specifically, I focus on image/video restoration and generation, multimodal perception and understanding, efficient MLLM/LLM, agentic system, etc.
+
+## Research
+
+<div class="research-topics">
+  <article class="research-topic">
+    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-magic"></i></span>
+    <div><h3>Generative Image Restoration</h3><p>Foundation models for image restoration</p></div>
+  </article>
+  <article class="research-topic">
+    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-globe-asia"></i></span>
+    <div><h3>Spatiotemporal Intelligence</h3><p>Climate downscaling and AI for meteorology</p></div>
+  </article>
+  <article class="research-topic">
+    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-layer-group"></i></span>
+    <div><h3>MLLM Post-training</h3><p>Learning in degraded or complex scenarios</p></div>
+  </article>
+  <article class="research-topic">
+    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-robot"></i></span>
+    <div><h3>Embodied Intelligence</h3><p>Interactive navigation and efficient embodied large models</p></div>
+  </article>
+  <article class="research-topic">
+    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-project-diagram"></i></span>
+    <div><h3>Agentic Systems</h3><p>Agents addressing all the research topics above</p></div>
+  </article>
+</div>
 
 ## News
 
@@ -433,28 +501,6 @@ My research interest broadly includes deep learning, computer vision and speech 
     </div>
   </div>
 </div>
-
-## Research Topics (Series A)
-* Image/video restoration and generation
-	* Real-world super-resolution
-	* Efficient image/video generation
-	* Scientific image enhancement
-* Multimodal perception and understanding
-	* Multimodal tracking
-	* Audio-visual tasks
-* MLLM & LLM
-	* MLLM/LLM for mobile devices
-	* MLLM for image quality assessment
-
-## Research Topics (Series B)
-* Low-level foundation model
-	* Foundation model for image restoration
-* World model
-	* World model in embodied ai
-	* World model in video generation
-* AI agents
-	* Image restoration agent
-	* GUI agent
 
 ## Funds and Projects
 * 国家青年科学基金项目(C类)，2025-01-01 至 2027-12-31，主持
