@@ -127,6 +127,7 @@ plugins:
   - jekyll-socials
   - jemoji
   - al_folio_core
+  - al_folio_bootstrap_compat
   - al_icons
   - al_folio_cv
   - al_folio_upgrade

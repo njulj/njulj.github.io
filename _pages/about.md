@@ -20,6 +20,41 @@ redirect_from:
 ---
 
 <style>
+  /* Keep the homepage navigation aligned even when GitHub Pages serves a
+     cached copy of the theme stylesheet. */
+  #navbar {
+    right: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+  }
+
+  @media (min-width: 576px) {
+    #navbar > .container {
+      display: flex !important;
+      flex-wrap: nowrap;
+      align-items: center;
+      justify-content: flex-end;
+      width: 100% !important;
+      max-width: 930px;
+      margin-right: auto !important;
+      margin-left: auto !important;
+    }
+
+    #navbar .navbar-collapse-main {
+      display: flex !important;
+      visibility: visible !important;
+      flex: 1 1 auto;
+      width: auto;
+      justify-content: flex-end;
+      margin-left: auto;
+    }
+
+    #navbar .navbar-menu-list {
+      margin-right: 0;
+      margin-left: auto;
+    }
+  }
+
   .post {
     --about-accent: #3f7185;
     --about-accent-hover: #2c596a;
