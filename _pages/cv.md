@@ -1,59 +1,42 @@
 ---
-layout: archive
-title: "CV"
+layout: page
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: curriculum vitae
+nav: true
+nav_order: 3
 ---
 
-{% include base_path %}
+## Employment
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Assistant Professor**, School of Intelligence Science and Technology, Nanjing University, 2022–present.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Ph.D. in Computer Science and Technology**, Nanjing University, 2022.
+- **M.S. in Computer Science and Technology**, Nanjing University, 2018.
+- **B.E. in Computer Science and Technology**, Nanjing University, 2015.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Interests
+
+Image and video restoration and generation; multimodal perception and understanding; efficient MLLM/LLM; and agentic systems.
+
+## Funded Projects
+
+- National Natural Science Foundation of China Young Scientists Fund (Category C), Principal Investigator, 2025–2027.
+- Natural Science Foundation of Jiangsu Province Young Scientists Fund, Principal Investigator, 2024–2027.
+- National Key R&D Program / Science and Technology Innovation 2030, Participant.
+
+## Honors and Awards
+
+- National Scholarship for Doctoral Students.
+- Outstanding Ph.D. Candidate Program B, Nanjing University.
+- Outstanding Advisor, AFAC 2023 Financial Intelligence Challenge.
+
+## Teaching
+
+- Introduction to Computer Systems (ICS), Nanjing University, 2023–2025.
+- Co-author, *Computer Systems Practice Tutorial: x86 + Linux Platform*.
+
+## Academic Service
+
+Reviewer for CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ACM MM, IEEE TMM, IEEE TCSVT, IJCV, and TIP.
