@@ -90,11 +90,13 @@ redirect_from:
   }
 
   .news-scroll {
-    max-height: 28rem;
+    max-height: 52rem;
     overflow-y: auto;
     overscroll-behavior: contain;
     margin-bottom: 1.25rem;
-    padding: 0.15rem 1rem 0.15rem 0;
+    padding: 0.75rem 1rem 0.75rem 0.85rem;
+    border: 1px solid rgb(63 113 133 / 18%);
+    border-radius: 0.45rem;
     scrollbar-width: thin;
   }
 
@@ -215,6 +217,10 @@ redirect_from:
     margin-top: 0.75rem;
   }
 
+  .selected-publications-heading {
+    margin-top: 1.8rem;
+  }
+
   .featured-publication {
     display: grid;
     grid-template-columns: minmax(150px, 24%) 1fr;
@@ -309,7 +315,7 @@ redirect_from:
     }
 
     .news-scroll {
-      max-height: 22rem;
+      max-height: 41rem;
     }
 
     .profile {
@@ -434,7 +440,7 @@ My research interest broadly includes deep learning, computer vision and speech 
 
 </div>
 
-## Selected Publications [[Full List](/publications/)]
+<h2 class="selected-publications-heading">Selected Publications <a href="/publications/">[Full List]</a></h2>
 
 <div class="featured-publications">
   <div class="featured-publication">
