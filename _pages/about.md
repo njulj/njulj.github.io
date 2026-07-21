@@ -23,9 +23,17 @@ redirect_from:
   /* Keep the homepage navigation aligned even when GitHub Pages serves a
      cached copy of the theme stylesheet. */
   #navbar {
+    top: 0 !important;
     right: 0 !important;
     left: 0 !important;
     width: 100% !important;
+    min-height: 57px;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  #navbar > .container {
+    min-height: 57px;
   }
 
   @media (min-width: 576px) {

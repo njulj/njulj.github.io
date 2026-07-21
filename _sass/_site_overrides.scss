@@ -1,8 +1,16 @@
 /* Site-specific layout fixes loaded after the theme styles. */
 #navbar {
+  top: 0 !important;
   right: 0 !important;
   left: 0 !important;
   width: 100% !important;
+  min-height: 57px;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+#navbar > .container {
+  min-height: 57px;
 }
 
 @media (min-width: 576px) {
