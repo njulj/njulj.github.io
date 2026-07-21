@@ -97,7 +97,7 @@ nav_order: 2
   /* The venue is the final emphasized phrase in each publication entry. */
   .post article li strong:last-of-type {
     color: var(--publication-venue);
-    font-weight: 600;
+    font-weight: 400;
   }
 
   .post article li strong:not(:last-of-type) {
