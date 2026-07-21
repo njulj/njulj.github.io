@@ -1,0 +1,17 @@
+/* Site-specific layout fixes loaded after the theme styles. */
+@media (min-width: 576px) {
+  #navbar > .container {
+    justify-content: flex-end;
+  }
+
+  #navbar .navbar-collapse-main {
+    flex: 1 1 auto;
+    width: auto;
+    justify-content: flex-end;
+  }
+
+  #navbar .navbar-menu-list {
+    margin-right: 0;
+    margin-left: auto;
+  }
+}

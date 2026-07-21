@@ -42,6 +42,10 @@ redirect_from:
     color: var(--about-accent-hover);
   }
 
+  .post-header {
+    padding-right: 30%;
+  }
+
   .news-scroll {
     max-height: 28rem;
     overflow-y: auto;
@@ -105,7 +109,9 @@ redirect_from:
   }
 
   .profile {
-    margin-top: -6.5rem;
+    position: relative;
+    z-index: 1;
+    margin-top: -5.1rem;
     width: 27%;
   }
 
@@ -216,6 +222,10 @@ redirect_from:
   }
 
   @media (max-width: 576px) {
+    .post-header {
+      padding-right: 0;
+    }
+
     .news-scroll {
       max-height: 22rem;
     }
