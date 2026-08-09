@@ -150,7 +150,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <span class="corresponding-note"><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span> indicates the corresponding author</span>
 
 ### 2026
-* <span class="pub-rank rank-a">CCF-A</span> [Enabling Proactive Spoken Turns via a Generalized Style-Aware Full-Duplex Framework]() Tianrui Pan, Qinglin Zhang, Chong Deng, Luyao Cheng, Qian Chen, Wen Wang, Jie Tang, Gangshan Wu, **Jie Liu**<span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>. **ACM MM**, 2026.
+* <span class="pub-rank rank-a">CCF-A</span> [Enabling Proactive Spoken Turns via a Generalized Style-Aware Full-Duplex Framework]() Tianrui Pan, Qinglin Zhang, Chong Deng, Luyao Cheng, Qian Chen, Wen Wang, Jie Tang<span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Gangshan Wu, **Jie Liu**<span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>. **ACM MM**, 2026.
 
 * <span class="pub-rank rank-b">CCF-B</span> [RASR: Retrieval-Augmented Super Resolution for Practical Reference-Based Image Restoration](https://arxiv.org/pdf/2508.09449?) Jiaqi Yan, Shuning Xu, Xiangyu Chen<span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Dell Zhang, Jiantao Zhou, Jie Tang, GangshanWu, **Jie Liu**<span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>. **ISCAS**, 2026.
 

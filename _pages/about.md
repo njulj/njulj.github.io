@@ -350,24 +350,24 @@ I am working as an Assistant Professor at the School of Intelligence Science and
 
 My research interest broadly includes deep learning, computer vision and speech processing. Specifically, I focus on image/video restoration and generation, multimodal perception and understanding, efficient MLLM/LLM, agentic system, etc.
 
-## Research
+## Current Research
 
 <div class="research-topics">
   <article class="research-topic">
     <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-magic"></i></span>
-    <div><h3>Generative Image Restoration</h3><p>Foundation models for image restoration</p></div>
+    <div><h3>Controllable Image Generation (AIGC)</h3><p>Generative Image Restoration/Super-Resolution/Editing</p></div>
   </article>
   <article class="research-topic">
     <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-globe-asia"></i></span>
-    <div><h3>Spatiotemporal Intelligence</h3><p>Climate downscaling and AI for meteorology</p></div>
+    <div><h3>Spatiotemporal Intelligence (AI4Sci)</h3><p>Climate downscaling and AI for meteorology</p></div>
   </article>
   <article class="research-topic">
     <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-layer-group"></i></span>
-    <div><h3>MLLM Post-training</h3><p>Learning in degraded or complex scenarios</p></div>
+    <div><h3>Understanding Complex Scenes (MLLM)</h3><p>MLLM Learning in degraded or complex scenarios</p></div>
   </article>
   <article class="research-topic">
     <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-robot"></i></span>
-    <div><h3>Embodied Intelligence</h3><p>Interactive navigation and efficient embodied large models</p></div>
+    <div><h3>Audio-Visual Multimodal Interaction</h3><p>Interaction and Navigation in Embodied Scenarios</p></div>
   </article>
   <article class="research-topic">
     <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-project-diagram"></i></span>
@@ -375,7 +375,7 @@ My research interest broadly includes deep learning, computer vision and speech 
   </article>
 </div>
 
-## News
+## Recent News
 
 <div class="news-scroll" markdown="1" role="region" aria-label="Recent news" tabindex="0">
 
