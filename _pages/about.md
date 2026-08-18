@@ -94,6 +94,68 @@ redirect_from:
     padding-right: 30%;
   }
 
+  .about-community {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 160px;
+    gap: 1.35rem;
+    align-items: center;
+    margin: 0.8rem 0 1.8rem;
+    padding: 1.25rem 1.35rem;
+    border: 1px solid rgb(63 113 133 / 22%);
+    border-radius: 0.75rem;
+    background: rgb(63 113 133 / 7%);
+  }
+
+  .about-community p {
+    margin-bottom: 0.7rem;
+    line-height: 1.65;
+  }
+
+  .about-community ul {
+    margin: 0.35rem 0 0.9rem;
+    padding-left: 1.2rem;
+  }
+
+  .about-community li {
+    margin-bottom: 0.25rem;
+  }
+
+  .about-community__group {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4rem 0.7rem;
+    border: 1px solid rgb(63 113 133 / 24%);
+    border-radius: 0.4rem;
+    background: var(--global-bg-color);
+  }
+
+  .about-community__group strong {
+    color: var(--about-accent);
+    letter-spacing: 0.04em;
+  }
+
+  .about-community__qr {
+    margin: 0;
+    text-align: center;
+  }
+
+  .about-community__qr img {
+    display: block;
+    width: 100%;
+    max-width: 160px;
+    margin: 0 auto;
+    border: 1px solid rgb(63 113 133 / 22%);
+    border-radius: 0.5rem;
+    background: #fff;
+  }
+
+  .about-community__qr figcaption {
+    margin-top: 0.35rem;
+    color: var(--global-text-color-light);
+    font-size: 0.75rem;
+  }
+
   .news-scroll {
     max-height: 52rem;
     overflow-y: auto;
@@ -332,6 +394,14 @@ redirect_from:
       grid-template-columns: 1fr;
     }
 
+    .about-community {
+      grid-template-columns: 1fr;
+    }
+
+    .about-community__qr {
+      order: -1;
+    }
+
     .featured-publication {
       grid-template-columns: 1fr;
       gap: 0.75rem;
@@ -349,6 +419,29 @@ redirect_from:
 I am working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
 My research interest broadly includes deep learning, computer vision and speech processing. Specifically, I focus on image/video restoration and generation, multimodal perception and understanding, efficient MLLM/LLM, agentic system, etc.
+
+## Community & Discussion
+
+<div class="about-community">
+  <div>
+    <p>欢迎对图像恢复 Agent、低层视觉与多模态智能感兴趣的研究者、开发者和同学加入社区，一起交流讨论！</p>
+    <ul>
+      <li>讨论最新论文与研究想法</li>
+      <li>分享开源项目和实用资源</li>
+      <li>交流技术问题与实现经验</li>
+      <li>寻找潜在的科研合作伙伴</li>
+    </ul>
+    <div class="about-community__group">
+      <span>QQ群</span>
+      <strong>1056914561</strong>
+    </div>
+    <p><small>可搜索群号或扫描右侧二维码加入，欢迎大家进群交流。</small></p>
+  </div>
+  <figure class="about-community__qr">
+    <img src="{{ '/images/awesome-agent-qq-group.png' | relative_url }}" alt="Awesome Agent for Low-level Vision QQ group QR code, group number 1056914561">
+    <figcaption>扫码加入 QQ 群</figcaption>
+  </figure>
+</div>
 
 ## Current Research
 
@@ -454,7 +547,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates</div>
       <div class="paper-authors">Xingyu Luo, Yidong Cai, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Jie Tang, Gangshan Wu, and Limin Wang</div>
       <div class="paper-venue"><em>IJCV 2026</em></div>
-      <div class="paper-links"><a href="https://link.springer.com/article/10.1007/s11263-026-02774-7">Paper</a><a href="https://github.com/Confetti-lxy/GLAD">Code</a><a class="github-stars" href="https://github.com/Confetti-lxy/GLAD/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>6</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=8484577720452671235" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>1</a></div>
+      <div class="paper-links"><a href="https://link.springer.com/article/10.1007/s11263-026-02774-7">Paper</a><a href="https://github.com/Confetti-lxy/GLAD">Code</a><a class="github-stars" href="https://github.com/Confetti-lxy/GLAD/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>6</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=12234264164430183184" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>2</a></div>
     </div>
   </div>
   <div class="featured-publication">
@@ -472,7 +565,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">In-the-wild Audio Spatialization with Flexible Text-guided Localization</div>
       <div class="paper-authors">Tianrui Pan, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Zewen Huang, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>ACL 2025 Main (Oral)</em></div>
-      <div class="paper-links"><a href="https://arxiv.org/pdf/2506.00927">PDF</a><a href="https://github.com/Alice01010101/TASU">Code</a><a class="github-stars" href="https://github.com/Alice01010101/TASU/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>10</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=13634392053545912425" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>3</a></div>
+      <div class="paper-links"><a href="https://arxiv.org/pdf/2506.00927">PDF</a><a href="https://github.com/Alice01010101/TASU">Code</a><a class="github-stars" href="https://github.com/Alice01010101/TASU/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>11</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=13634392053545912425" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>3</a></div>
     </div>
   </div>
   <div class="featured-publication">
@@ -481,7 +574,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution</div>
       <div class="paper-authors">Xin Liu, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>CVPR 2025</em></div>
-      <div class="paper-links"><a href="https://arxiv.org/abs/2503.06896">PDF</a><a href="https://github.com/EquationWalker/CATANet">Code</a><a class="github-stars" href="https://github.com/EquationWalker/CATANet/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>235</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=6564347727405235652" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>96</a></div>
+      <div class="paper-links"><a href="https://arxiv.org/abs/2503.06896">PDF</a><a href="https://github.com/EquationWalker/CATANet">Code</a><a class="github-stars" href="https://github.com/EquationWalker/CATANet/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>236</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=6564347727405235652" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>108</a></div>
     </div>
   </div>
   <div class="featured-publication">
@@ -490,7 +583,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">Robust Object Modeling for Visual Tracking</div>
       <div class="paper-authors">Yidong Cai, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>ICCV 2023</em></div>
-      <div class="paper-links"><a href="https://arxiv.org/abs/2308.05140">PDF</a><a href="https://github.com/dawnyc/ROMTrack">Code</a><a class="github-stars" href="https://github.com/dawnyc/ROMTrack/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>48</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=16959695817106881254" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>260</a></div>
+      <div class="paper-links"><a href="https://arxiv.org/abs/2308.05140">PDF</a><a href="https://github.com/dawnyc/ROMTrack">Code</a><a class="github-stars" href="https://github.com/dawnyc/ROMTrack/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>49</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=16959695817106881254" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>271</a></div>
     </div>
   </div>
   <div class="featured-publication">
@@ -499,7 +592,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">Residual Feature Aggregation Network for Image Super-Resolution</div>
       <div class="paper-authors"><strong>Jie Liu</strong>, Wenjie Zhang, Yuting Tang, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>CVPR 2020</em></div>
-      <div class="paper-links"><a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html">Paper</a><a href="https://github.com/njulj/RFANet">Code</a><a class="github-stars" href="https://github.com/njulj/RFANet/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>106</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=17474753560595458218" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>783</a></div>
+      <div class="paper-links"><a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html">Paper</a><a href="https://github.com/njulj/RFANet">Code</a><a class="github-stars" href="https://github.com/njulj/RFANet/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>106</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=17474753560595458218" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>788</a></div>
     </div>
   </div>
   <div class="featured-publication">
@@ -508,7 +601,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">Residual Feature Distillation Network for Lightweight Image Super-Resolution</div>
       <div class="paper-authors"><strong>Jie Liu</strong>, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>ECCVW 2020</em></div>
-      <div class="paper-links"><a href="https://link.springer.com/chapter/10.1007/978-3-030-67070-2_2">Paper</a><a href="https://github.com/njulj/RFDN">Code</a><a class="github-stars" href="https://github.com/njulj/RFDN/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>400</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=5480173376995974751" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>806</a></div>
+      <div class="paper-links"><a href="https://link.springer.com/chapter/10.1007/978-3-030-67070-2_2">Paper</a><a href="https://github.com/njulj/RFDN">Code</a><a class="github-stars" href="https://github.com/njulj/RFDN/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>402</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=5480173376995974751" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>821</a></div>
     </div>
   </div>
 </div>
