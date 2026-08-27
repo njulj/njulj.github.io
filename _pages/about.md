@@ -204,6 +204,10 @@ redirect_from:
     color: inherit !important;
   }
 
+  .news-scroll > ul > li > span.news-highlight {
+    color: var(--global-theme-color) !important;
+  }
+
   .news-scroll > ul > li > ul,
   .news-scroll > ul > li > p {
     text-indent: 0;
@@ -472,6 +476,7 @@ My research interest broadly includes deep learning, computer vision and speech 
 
 <div class="news-scroll" markdown="1" role="region" aria-label="Recent news" tabindex="0">
 
+* <span class="news-date">2026.08</span> <span class="news-highlight">恭喜雷业成（大三）、徐子轩（大三）同学在第八届开源创新大赛“基于AI/Agent的NPU算子自动生成”开源任务挑战赛道中获得三等奖！</span>
 * <span class="news-date">2026.07</span> <span style="color:purple">Our paper "Enabling Proactive Spoken Turns via a Generalized Style-Aware Full-Duplex Framework" was accepted by MM 2026 (CCF-A). Congratulations Tianrui Pan!</span>
 * <span class="news-date">2026.06</span> <span style="color:purple">We secured third place in the REAL-I 2026 — The 1st Real-World Embodied AI Learning Challenge, held at ICRA 2026. 恭喜陈宇宁、孙飞宇和张明轩同学！</span>
 * <span class="news-date">2026.03</span> <span style="color:purple">We secured third place in the NTIRE Efficient Super-Resolution Challenge, held at CVPR 2026. 恭喜雷业成（大二）和闵文楷（大二）！</span>
