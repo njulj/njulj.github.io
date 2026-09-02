@@ -60,6 +60,57 @@ nav_order: 4
     font-size: 1.12rem;
   }
 
+  .course-notice {
+    --notice-accent: #b509ac;
+    padding: 1.1rem 1.2rem;
+    border: 1px solid color-mix(in srgb, var(--notice-accent) 35%, transparent);
+    border-left: 4px solid var(--notice-accent);
+    border-radius: 0.5rem;
+    background: color-mix(in srgb, var(--notice-accent) 10%, var(--global-bg-color));
+    box-shadow: 0 0.35rem 1rem color-mix(in srgb, var(--notice-accent) 12%, transparent);
+  }
+
+  .course-notice__item + .course-notice__item {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid color-mix(in srgb, var(--notice-accent) 22%, transparent);
+  }
+
+  .course-notice__title {
+    margin: 0 0 0.65rem;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.5;
+  }
+
+  .course-notice__title,
+  .course-notice__title i,
+  .course-notice__title a {
+    color: var(--notice-accent);
+  }
+
+  .course-notice__title a {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+
+  .course-notice__deadlines {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem 1.25rem;
+    margin: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+  }
+
+  .course-notice__deadlines strong {
+    color: var(--notice-accent);
+  }
+
+  #notice-title {
+    color: #b509ac;
+  }
+
   .challenge {
     padding: 1.15rem 1.2rem;
     border-left: 3px solid var(--course-accent);
@@ -189,6 +240,33 @@ nav_order: 4
       <h2>人工智能导论</h2>
       <p class="course-intro">课程围绕人工智能的基础知识、真实任务挑战与项目实践展开，帮助学生在学习核心概念的同时积累完整的问题分析和工程实践经验。</p>
     </header>
+
+    <section class="course-section" aria-labelledby="notice-title">
+      <h3 id="notice-title">最新通知</h3>
+      <div class="course-notice">
+        <div class="course-notice__item">
+          <p class="course-notice__title">
+            <i class="fas fa-bullhorn" aria-hidden="true"></i>
+            Assignment 1.1 已经上线，<a href="https://xiepengyu2004.github.io/ai-introduction-course/#/assignments/assignment1.1" target="_blank" rel="noopener noreferrer">点击查看作业详情</a>
+          </p>
+          <p class="course-notice__deadlines">
+            <span><strong>Soft DDL：</strong>2026 年 9 月 15 日 23:59</span>
+            <span><strong>Hard DDL：</strong>2026 年 9 月 25 日 23:59</span>
+          </p>
+        </div>
+        <div class="course-notice__item">
+          <p class="course-notice__title">
+            <i class="fas fa-trophy" aria-hidden="true"></i>
+            2026 RSNA 膝关节 MRI 异常检测 AI 挑战赛已开放，<a href="https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/overview" target="_blank" rel="noopener noreferrer">点击查看比赛详情</a>
+          </p>
+          <p class="course-notice__deadlines">
+            <span><strong>竞赛任务：</strong>膝关节 MRI 异常检测</span>
+            <span><strong>截止时间：</strong>2026 年 10 月 22 日</span>
+            <span><strong>竞赛报告截止时间：</strong>待定</span>
+          </p>
+        </div>
+      </div>
+    </section>
 
     <section class="course-section" aria-labelledby="chapters-title">
       <h3 id="chapters-title">章节安排</h3>
