@@ -452,24 +452,24 @@ My research interest broadly includes deep learning, computer vision and speech 
 <div class="research-topics">
   <article class="research-topic">
     <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-magic"></i></span>
-    <div><h3>Controllable Image Generation (AIGC)</h3><p>Generative Image Restoration/Super-Resolution/Editing</p></div>
+    <div><h3>Controllable Image Generation (AIGC)</h3><p>Focus on Unified Visual Understanding and Generation. Learning shared representations for controllable, faithful, and spatiotemporally consistent image and video restoration, editing, and generation.</p></div>
   </article>
+
   <article class="research-topic">
     <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-globe-asia"></i></span>
-    <div><h3>Spatiotemporal Intelligence (AI4Sci)</h3><p>Climate downscaling and AI for meteorology</p></div>
+    <div><h3>Controllable Scientific Generation (AI4S)</h3><p>Focus on Physically Consistent Weather Downscaling. Physics-constrained generative modeling for high-resolution meteorological data.</p></div>
   </article>
-  <article class="research-topic">
-    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-layer-group"></i></span>
-    <div><h3>Understanding Complex Scenes (MLLM)</h3><p>MLLM Learning in degraded or complex scenarios</p></div>
-  </article>
+
   <article class="research-topic">
     <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-robot"></i></span>
-    <div><h3>Audio-Visual Multimodal Interaction</h3><p>Interaction and Navigation in Embodied Scenarios</p></div>
+    <div><h3>Audio-Visual Multimodal Interaction (AVWM)</h3><p>Focus on Audio-Visual Embodied Intelligence. Learning unified audio-visual representations, spatial memory, and predictive world models for proactive interaction and autonomous navigation.</p></div>
   </article>
+
   <article class="research-topic">
     <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-project-diagram"></i></span>
-    <div><h3>Agentic Systems</h3><p>Agents addressing all the research topics above</p></div>
+    <div><h3>Self-Evolving Agents (RSI)</h3><p>Focus on Recursive self-improvement of agent capabilities and learning strategies through experience and feedback, with applications in content generation, multimodal interaction, and atmospheric science.</p></div>
   </article>
+  
 </div>
 
 ## Recent News
