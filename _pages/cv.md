@@ -1,14 +1,16 @@
 ---
 layout: page
 permalink: /cv/
-title: curriculum vitae
+title: CV
 nav: true
 nav_order: 3
 ---
 
 ## Employment
 
-**Assistant Professor**, School of Intelligence Science and Technology, Nanjing University, 2022–present.
+- **2026.06 – 至今**：南京大学 · 智能科学与技术学院 · 助理教授
+- **2025.11 – 2026.05**：南京大学 · 计算机学院 · 副研究员
+- **2022.11 – 2025.10**：南京大学 · 计算机学院 · 助理研究员
 
 ## Education
 
