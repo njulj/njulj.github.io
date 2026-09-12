@@ -237,7 +237,7 @@ nav_order: 4
   <article class="course-card">
     <header class="course-card__header">
       <div class="course-card__eyebrow">Introduction to Artificial Intelligence</div>
-      <h2>人工智能导论</h2>
+      <h2>人工智能导论（匡亚明学院）</h2>
       <p class="course-intro">课程围绕人工智能的基础知识、真实任务挑战与项目实践展开，帮助学生在学习核心概念的同时积累完整的问题分析和工程实践经验。</p>
     </header>
 
