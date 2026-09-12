@@ -3,7 +3,7 @@ layout: about
 permalink: /
 title: about
 nav: false
-subtitle: <span class="academic-title">助理教授 (特聘研究员) · 博导</span><br><a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a><br>Nanjing University, Suzhou · Jiangsu, China
+subtitle: <span class="academic-title">助理教授 (特聘研究员) · 博导</span><br><a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a><br>Nanjing University, Suzhou · Jiangsu, China<br>Email&#58; <a href="mailto:liujie@nju.edu.cn">liujie@nju.edu.cn</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -417,7 +417,7 @@ redirect_from:
   }
 </style>
 
-> 🐳 I am recruiting **1–2 Ph.D. students and 1–2 master's students for 2027**. Interested students are welcome to contact me at [liujie@nju.edu.cn](mailto:liujie@nju.edu.cn).
+> 🐳 27年入学博士已招满，硕士还剩1个名额。
 
 ## Biography
 I am working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
