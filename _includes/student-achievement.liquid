@@ -1,0 +1,22 @@
+{% assign achievement = include.achievement %}
+<li class="achievement-entry" lang="zh">
+  <div class="achievement-meta">
+    <span class="achievement-award">{{ achievement.award | escape }}</span>
+    <time datetime="{{ achievement.date | replace: '.', '-' }}">{{ achievement.date }}</time>
+  </div>
+  <h3>{{ achievement.title | escape }}</h3>
+  <p class="achievement-detail">{{ achievement.detail | escape }}</p>
+  <p class="achievement-students">{{ achievement.students | escape }}</p>
+  {% if achievement.links %}
+  <div class="achievement-links">
+    {% for link in achievement.links %}
+      {% assign first_character = link.url | slice: 0, 1 %}
+      {% if first_character == '/' %}
+        <a href="{{ link.url | relative_url }}">{{ link.label | escape }} <span aria-hidden="true">↗</span></a>
+      {% else %}
+        <a href="{{ link.url | escape }}">{{ link.label | escape }} <span aria-hidden="true">↗</span></a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+</li>

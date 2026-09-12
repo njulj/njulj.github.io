@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: about
+title: About
 nav: false
 subtitle: <span class="academic-title">助理教授 (特聘研究员) · 博导</span><br><a href="https://is.nju.edu.cn/">School of Intelligence Science and Technology</a><br>Nanjing University, Suzhou · Jiangsu, China<br>Email&#58; <a href="mailto:liujie@nju.edu.cn">liujie@nju.edu.cn</a>
 profile:
@@ -473,6 +473,8 @@ My research interest broadly includes deep learning, computer vision and speech 
 </div>
 
 ## Recent News
+
+学生获奖与科研资助汇总：[Student Honors]({{ '/student-achievements/' | relative_url }})
 
 <div class="news-scroll" markdown="1" role="region" aria-label="Recent news" tabindex="0">
 

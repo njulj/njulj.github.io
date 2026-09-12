@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: Publications
 permalink: /publications/
 description: Publications in reverse chronological order.
 nav: true

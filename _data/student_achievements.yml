@@ -1,0 +1,86 @@
+awards:
+  - date: "2026.08"
+    award: 三等奖
+    title: 第八届开源创新大赛
+    detail: “基于 AI/Agent 的 NPU 算子自动生成”开源任务挑战赛道
+    students: 雷业成（大三）、徐子轩（大三）
+  - date: "2026.06"
+    award: 季军
+    title: REAL-I 2026 · Real-World Embodied AI Learning Challenge
+    detail: ICRA 2026 · 首届真实世界具身智能学习挑战赛
+    students: 陈宇宁、孙飞宇、张明轩
+  - date: "2026.03"
+    award: 季军
+    title: NTIRE Efficient Super-Resolution Challenge
+    detail: CVPR 2026 · 高效图像超分辨率挑战赛
+    students: 雷业成（大二）、闵文楷（大二）
+  - date: "2025.11"
+    award: 全国特等奖
+    title: 第十九届“挑战杯”全国大学生课外学术科技作品竞赛
+    detail: “人工智能+”挑战赛
+    students: 张明轩（研一）、陈宇宁（研一）、张朱昊（研一）、孙飞宇（研一）、李嘉伟（研一）
+    links:
+      - label: 获奖报道
+        url: https://mp.weixin.qq.com/s/Rzbuh9of7G2_tolubgal-Q
+      - label: 扬子晚报
+        url: https://wap.yzwb.net/wap/news/4891087.html
+  - date: "2025.11"
+    award: 全国三等奖
+    title: 第十九届“挑战杯”全国大学生课外学术科技作品竞赛
+    detail: 2025 年度“揭榜挂帅”专项赛
+    students: 周擎（大三）、黄伟轩（大三）、程启航（大三）、陈巧（大三）、刘鑫鑫（大三）
+    links:
+      - label: 获奖报道
+        url: https://mp.weixin.qq.com/s/si2J3FAXIx3eScu7UDhzHg
+  - date: "2025.10"
+    award: 亚军
+    title: MAC 2025 · Micro-Action Analysis Grand Challenge
+    detail: ACM MM 2025 · 第二届微动作分析挑战赛
+    students: 罗星宇（研一）
+    links:
+      - label: 获奖图片
+        url: /MAC25.png
+  - date: "2024.11"
+    award: 全国三等奖
+    title: 第十九届“挑战杯”全国大学生课外学术科技作品竞赛
+    detail: 2024 年度“揭榜挂帅”专项赛
+    students: 梁锦文（大四）、罗星宇（大四）、陈依言（大三）
+  - date: "2024.10"
+    award: 冠军
+    title: Multi-Modal Visual Pattern Recognition Challenge
+    detail: ICPR 2024 · Track 2
+    students: 吴隽雨（大三）、晁宇豪（大三）
+    links:
+      - label: 获奖图片
+        url: /ICPR24.jpg
+  - date: "2024.10"
+    award: 优秀奖
+    title: 昇腾 AI 原生创新算子挑战赛
+    detail: S2 赛季
+    students: 林彦铠（大三）
+  - date: "2024.04"
+    award: 亚军
+    title: AICAS 2024 Grand Challenge
+    detail: 通用算力大模型推理性能软硬协同优化挑战赛 · 奖金 USD 3,000
+    students: 梁锦文、罗星宇、石璐、孙源泽（均为 2021 级本科生）
+    links:
+      - label: 赛事详情
+        url: https://tianchi.aliyun.com/competition/entrance/532170
+      - label: 获奖图片
+        url: /AICAS.png
+  - date: "2023.08"
+    award: 季军
+    title: AFAC 2023 金融智能挑战赛
+    detail: 金融数据验真 · 金融文档防篡改挑战赛 · 奖金 ¥10,000
+    students: 石璐、梁锦文（均为 2021 级本科生）
+    links:
+      - label: 赛事详情
+        url: https://tianchi.aliyun.com/competition/entrance/532096/introduction
+      - label: 获奖图片
+        url: /AFAC.png
+research:
+  - date: "2025.09"
+    award: 项目获批
+    title: 国家自然科学基金青年学生基础研究项目（本科生）
+    detail: 面向 LUT 超分辨率模型的纹理增强与存储压缩技术研究
+    students: 许煜恒
