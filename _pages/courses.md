@@ -250,8 +250,11 @@ nav_order: 4
             Assignment 1.1 已经上线，<a href="https://xiepengyu2004.github.io/ai-introduction-course/#/assignments/assignment1.1" target="_blank" rel="noopener noreferrer">点击查看作业详情</a>
           </p>
           <p class="course-notice__deadlines">
-            <span><strong>Soft DDL：</strong>2026 年 9 月 15 日 23:59</span>
-            <span><strong>Hard DDL：</strong>2026 年 9 月 25 日 23:59</span>
+            <span><strong>Soft DDL：</strong><del>2026 年 9 月 15 日 23:59</del> → <ins>2026 年 9 月 20 日 23:59</ins></span>
+            <span><strong>Hard DDL：</strong><del>2026 年 9 月 25 日 23:59</del> → <ins>2026 年 9 月 30 日 23:59</ins></span>
+          </p>
+          <p class="course-notice__deadlines">
+            <span>更新于 2026 年 9 月 13 日：Assignment 1.1 的 Soft DDL 和 Hard DDL 统一延后 5 天。</span>
           </p>
         </div>
         <div class="course-notice__item">
