@@ -156,6 +156,97 @@ redirect_from:
     font-size: 0.75rem;
   }
 
+  .graduate-training {
+    clear: both;
+    margin: 1.6rem 0 1.8rem;
+    padding-top: 0.2rem;
+  }
+
+  .graduate-training__card {
+    margin-top: 0.8rem;
+    overflow: hidden;
+    border: 1px solid rgb(63 113 133 / 22%);
+    border-radius: 0.75rem;
+    background: rgb(63 113 133 / 7%);
+  }
+
+  .graduate-training__intro {
+    margin: 0;
+    padding: 1.1rem 1.35rem 0;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    line-height: 1.7;
+  }
+
+  .graduate-training__stages {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+    margin: 0;
+    padding: 1.1rem 1.35rem 1.25rem;
+    list-style: none;
+  }
+
+  .graduate-training__stage {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .graduate-training__number {
+    flex: 0 0 2rem;
+    padding: 0.3rem 0;
+    border: 1px solid rgb(63 113 133 / 22%);
+    border-radius: 0.5rem;
+    color: var(--about-accent);
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .graduate-training__stage h3 {
+    margin: 0 0 0.3rem;
+    color: var(--about-accent);
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+
+  .graduate-training__stage p,
+  .graduate-training__rule p {
+    margin: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.88rem;
+    line-height: 1.75;
+  }
+
+  .graduate-training__rules {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+    padding: 1.1rem 1.35rem;
+    border-top: 1px solid rgb(63 113 133 / 18%);
+    background: var(--global-bg-color);
+  }
+
+  .graduate-training__rule h3 {
+    margin: 0 0 0.35rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.6;
+  }
+
+  .graduate-training__rule strong {
+    color: var(--about-accent);
+    font-weight: 600;
+  }
+
+  .graduate-training__graduation {
+    grid-column: 1 / -1;
+    padding-top: 1rem;
+    border-top: 1px solid rgb(63 113 133 / 18%);
+  }
+
   .news-scroll {
     max-height: 52rem;
     overflow-y: auto;
@@ -394,6 +485,11 @@ redirect_from:
       width: 100%;
     }
 
+    .graduate-training__stages,
+    .graduate-training__rules {
+      grid-template-columns: 1fr;
+    }
+
     .research-topics {
       grid-template-columns: 1fr;
     }
@@ -423,6 +519,37 @@ redirect_from:
 I am working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
 My research interest broadly includes deep learning, computer vision and speech processing. Specifically, I focus on image/video restoration and generation, multimodal perception and understanding, efficient MLLM/LLM, agentic system, etc.
+
+<section class="graduate-training" aria-labelledby="graduate-training-title">
+  <h2 id="graduate-training-title">研究生培养</h2>
+  <div class="graduate-training__card">
+    <p class="graduate-training__intro">培养采取两阶段模式，组内培养与企业实践各占学制的一半。</p>
+    <ol class="graduate-training__stages">
+      <li class="graduate-training__stage">
+        <span class="graduate-training__number" aria-hidden="true">01</span>
+        <div><h3>组内培养</h3><p>学习必备的科研实践能力。</p></div>
+      </li>
+      <li class="graduate-training__stage">
+        <span class="graduate-training__number" aria-hidden="true">02</span>
+        <div><h3>企业实践</h3><p>推荐至相关企业，参与真实业务。</p></div>
+      </li>
+    </ol>
+    <div class="graduate-training__rules">
+      <div class="graduate-training__rule">
+        <h3>硕士 · <strong>一年半后</strong>可无条件实习</h3>
+        <p>发表 <strong>1 篇顶会/刊论文</strong>可提前出去实习。</p>
+      </div>
+      <div class="graduate-training__rule">
+        <h3>博士 · <strong>两年半后</strong>可无条件实习</h3>
+        <p>发表 <strong>2 篇顶会/刊论文</strong>可提前出去实习。</p>
+      </div>
+      <div class="graduate-training__rule graduate-training__graduation">
+        <h3>毕业条件</h3>
+        <p>研究生毕业满足学校规定的条件即可。</p>
+      </div>
+    </div>
+  </div>
+</section>
 
 ## Community & Discussion
 
