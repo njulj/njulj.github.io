@@ -158,12 +158,12 @@ redirect_from:
 
   .graduate-training {
     clear: both;
-    margin: 1.6rem 0 1.8rem;
+    margin: 1.2rem 0 1.4rem;
     padding-top: 0.2rem;
   }
 
   .graduate-training__card {
-    margin-top: 0.8rem;
+    margin-top: 0.6rem;
     overflow: hidden;
     border: 1px solid rgb(63 113 133 / 22%);
     border-radius: 0.75rem;
@@ -172,7 +172,7 @@ redirect_from:
 
   .graduate-training__intro {
     margin: 0;
-    padding: 1.1rem 1.35rem 0;
+    padding: 0.8rem 1.1rem 0;
     color: var(--global-text-color-light);
     font-size: 0.9rem;
     line-height: 1.7;
@@ -181,16 +181,16 @@ redirect_from:
   .graduate-training__stages {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1.25rem;
+    gap: 0.5rem 1.1rem;
     margin: 0;
-    padding: 1.1rem 1.35rem 1.25rem;
+    padding: 0.7rem 1.1rem 0.8rem;
     list-style: none;
   }
 
   .graduate-training__stage {
     display: flex;
     align-items: flex-start;
-    gap: 0.75rem;
+    gap: 0.6rem;
   }
 
   .graduate-training__number {
@@ -205,7 +205,7 @@ redirect_from:
   }
 
   .graduate-training__stage h3 {
-    margin: 0 0 0.3rem;
+    margin: 0 0 0.1rem;
     color: var(--about-accent);
     font-size: 1rem;
     font-weight: 600;
@@ -223,14 +223,14 @@ redirect_from:
   .graduate-training__rules {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1.25rem;
-    padding: 1.1rem 1.35rem;
+    gap: 0.5rem 1.1rem;
+    padding: 0.75rem 1.1rem;
     border-top: 1px solid rgb(63 113 133 / 18%);
     background: var(--global-bg-color);
   }
 
   .graduate-training__rule h3 {
-    margin: 0 0 0.35rem;
+    margin: 0;
     font-size: 0.95rem;
     font-weight: 600;
     line-height: 1.6;
@@ -239,12 +239,6 @@ redirect_from:
   .graduate-training__rule strong {
     color: var(--about-accent);
     font-weight: 600;
-  }
-
-  .graduate-training__graduation {
-    grid-column: 1 / -1;
-    padding-top: 1rem;
-    border-top: 1px solid rgb(63 113 133 / 18%);
   }
 
   .news-scroll {
@@ -537,15 +531,9 @@ My research interest broadly includes deep learning, computer vision and speech 
     <div class="graduate-training__rules">
       <div class="graduate-training__rule">
         <h3>硕士 · <strong>一年半后</strong>可无条件实习</h3>
-        <p>发表 <strong>1 篇顶会/刊论文</strong>可提前出去实习。</p>
       </div>
       <div class="graduate-training__rule">
         <h3>博士 · <strong>两年半后</strong>可无条件实习</h3>
-        <p>发表 <strong>2 篇顶会/刊论文</strong>可提前出去实习。</p>
-      </div>
-      <div class="graduate-training__rule graduate-training__graduation">
-        <h3>毕业条件</h3>
-        <p>研究生毕业满足学校规定的条件即可。</p>
       </div>
     </div>
   </div>
