@@ -521,7 +521,7 @@ My research interest broadly includes deep learning, computer vision and speech 
     <ol class="graduate-training__stages">
       <li class="graduate-training__stage">
         <span class="graduate-training__number" aria-hidden="true">01</span>
-        <div><h3>组内培养</h3><p>学习必备的科研实践能力。</p></div>
+        <div><h3>组内培养</h3><p>学习必备的科研实践技能。</p></div>
       </li>
       <li class="graduate-training__stage">
         <span class="graduate-training__number" aria-hidden="true">02</span>
