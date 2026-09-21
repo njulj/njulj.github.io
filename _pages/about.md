@@ -462,7 +462,7 @@ My research interest broadly includes deep learning, computer vision and speech 
 
   <article class="research-topic">
     <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-robot"></i></span>
-    <div><h3>Audio-Visual Multimodal Interaction (AVWM)</h3><p>Focus on Audio-Visual Embodied Intelligence. Learning unified audio-visual representations, spatial memory, and predictive world models for proactive interaction and autonomous navigation.</p></div>
+    <div><h3>Audio-Visual Multimodal Interaction (AVWM)</h3><p>Focus on Audio-Visual Embodied Intelligence/Smart Glasses. Learning unified audio-visual representations, spatial memory, and predictive world models for proactive interaction and autonomous navigation.</p></div>
   </article>
 
   <article class="research-topic">
