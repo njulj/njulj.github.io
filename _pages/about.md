@@ -156,91 +156,6 @@ redirect_from:
     font-size: 0.75rem;
   }
 
-  .graduate-training {
-    clear: both;
-    margin: 1.2rem 0 1.4rem;
-    padding-top: 0.2rem;
-  }
-
-  .graduate-training__card {
-    margin-top: 0.6rem;
-    overflow: hidden;
-    border: 1px solid rgb(63 113 133 / 22%);
-    border-radius: 0.75rem;
-    background: rgb(63 113 133 / 7%);
-  }
-
-  .graduate-training__intro {
-    margin: 0;
-    padding: 0.8rem 1.1rem 0;
-    color: var(--global-text-color-light);
-    font-size: 0.9rem;
-    line-height: 1.7;
-  }
-
-  .graduate-training__stages {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 0.5rem 1.1rem;
-    margin: 0;
-    padding: 0.7rem 1.1rem 0.8rem;
-    list-style: none;
-  }
-
-  .graduate-training__stage {
-    display: flex;
-    align-items: flex-start;
-    gap: 0.6rem;
-  }
-
-  .graduate-training__number {
-    flex: 0 0 2rem;
-    padding: 0.3rem 0;
-    border: 1px solid rgb(63 113 133 / 22%);
-    border-radius: 0.5rem;
-    color: var(--about-accent);
-    font-size: 0.8rem;
-    font-weight: 600;
-    text-align: center;
-  }
-
-  .graduate-training__stage h3 {
-    margin: 0 0 0.1rem;
-    color: var(--about-accent);
-    font-size: 1rem;
-    font-weight: 600;
-    line-height: 1.5;
-  }
-
-  .graduate-training__stage p,
-  .graduate-training__rule p {
-    margin: 0;
-    color: var(--global-text-color-light);
-    font-size: 0.88rem;
-    line-height: 1.75;
-  }
-
-  .graduate-training__rules {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 0.5rem 1.1rem;
-    padding: 0.75rem 1.1rem;
-    border-top: 1px solid rgb(63 113 133 / 18%);
-    background: var(--global-bg-color);
-  }
-
-  .graduate-training__rule h3 {
-    margin: 0;
-    font-size: 0.95rem;
-    font-weight: 600;
-    line-height: 1.6;
-  }
-
-  .graduate-training__rule strong {
-    color: var(--about-accent);
-    font-weight: 600;
-  }
-
   .news-scroll {
     max-height: 52rem;
     overflow-y: auto;
@@ -479,11 +394,6 @@ redirect_from:
       width: 100%;
     }
 
-    .graduate-training__stages,
-    .graduate-training__rules {
-      grid-template-columns: 1fr;
-    }
-
     .research-topics {
       grid-template-columns: 1fr;
     }
@@ -513,31 +423,6 @@ redirect_from:
 I am working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
 My research interest broadly includes deep learning, computer vision and speech processing. Specifically, I focus on image/video restoration and generation, multimodal perception and understanding, efficient MLLM/LLM, agentic system, etc.
-
-<section class="graduate-training" aria-labelledby="graduate-training-title">
-  <h2 id="graduate-training-title">研究生培养</h2>
-  <div class="graduate-training__card">
-    <p class="graduate-training__intro">培养采取两阶段模式，组内培养与企业实践各占学制的一半。</p>
-    <ol class="graduate-training__stages">
-      <li class="graduate-training__stage">
-        <span class="graduate-training__number" aria-hidden="true">01</span>
-        <div><h3>组内培养</h3><p>学习必备的科研实践技能。</p></div>
-      </li>
-      <li class="graduate-training__stage">
-        <span class="graduate-training__number" aria-hidden="true">02</span>
-        <div><h3>企业实践</h3><p>推荐至相关企业，参与真实业务。</p></div>
-      </li>
-    </ol>
-    <div class="graduate-training__rules">
-      <div class="graduate-training__rule">
-        <h3>硕士 · <strong>一年半后</strong>可无条件实习</h3>
-      </div>
-      <div class="graduate-training__rule">
-        <h3>博士 · <strong>两年半后</strong>可无条件实习</h3>
-      </div>
-    </div>
-  </div>
-</section>
 
 ## Community & Discussion
 
@@ -740,17 +625,6 @@ My research interest broadly includes deep learning, computer vision and speech 
 Outstanding PhD candidate of Nanjing University （南京大学提升B计划）
 * AFAC2023金融智能挑战赛“优秀指导教师”
 
-## Teaching
-* 计算机系统基础（ICS）
-	* 2025年秋季学期（计算机+AI+匡院 PA实验）
-	* 2024年秋季学期（计算机+AI+匡院 PA实验）
-	*  2023年秋季学期（PA实验）
-	*  2023年春季学期（理论部分）
-* 教学论文
-	* 袁春风，苏 丰，吴海军，余子濠，汪 亮，刘 杰，朱光辉，"计算机系统导论课程实践项目及实践体系建设"，《计算机教育》
-* 教材出版
-	* 《计算机系统实践教程：基于x86+Linux平台》，苏 丰，汪 亮，刘 杰，王慧妍，朱光辉，余子濠，鲍培明，袁春风
-
 ## Academic Services
 * Reviewer
   * ICLR 2025, CVPR 2025, ICML 2025, ICCV 2025, MM 2025, NeurIPS 2025
@@ -761,6 +635,20 @@ Outstanding PhD candidate of Nanjing University （南京大学提升B计划）
   * IEEE TMM, IEEE TCSVT, IJCV, TIP
   * ...
 
-## Alumni
-* 2024
-	* 陈超（百度），蔡益东（字节），王浩男（腾讯），周畅（无锡天一中学）
+## 研究生培养
+
+* 培养模式：组内培养与企业实践各占学制的一半。
+  * 第一阶段：组内培养，学习必备的科研实践技能。
+  * 第二阶段：企业实践，推荐至相关企业参与真实业务。
+* 实习安排：硕士一年半后、博士两年半后可无条件实习。
+
+## 本科教学
+* 计算机系统基础（ICS）
+	* 2025年秋季学期（计算机+AI+匡院 PA实验）
+	* 2024年秋季学期（计算机+AI+匡院 PA实验）
+	*  2023年秋季学期（PA实验）
+	*  2023年春季学期（理论部分）
+* 教学论文
+	* 袁春风，苏 丰，吴海军，余子濠，汪 亮，刘 杰，朱光辉，"计算机系统导论课程实践项目及实践体系建设"，《计算机教育》
+* 教材出版
+	* 《计算机系统实践教程：基于x86+Linux平台》，苏 丰，汪 亮，刘 杰，王慧妍，朱光辉，余子濠，鲍培明，袁春风
