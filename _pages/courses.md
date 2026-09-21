@@ -247,6 +247,16 @@ nav_order: 4
         <div class="course-notice__item">
           <p class="course-notice__title">
             <i class="fas fa-bullhorn" aria-hidden="true"></i>
+            Assignment 1.2 已经上线，<a href="https://xiepengyu2004.github.io/ai-introduction-course/#/assignments/assignment1.2" target="_blank" rel="noopener noreferrer">点击查看作业详情</a>
+          </p>
+          <p class="course-notice__deadlines">
+            <span><strong>Soft DDL：</strong>2026 年 10 月 10 日 23:59</span>
+            <span><strong>Hard DDL：</strong>2026 年 10 月 20 日 23:59</span>
+          </p>
+        </div>
+        <div class="course-notice__item">
+          <p class="course-notice__title">
+            <i class="fas fa-bullhorn" aria-hidden="true"></i>
             Assignment 1.1 已经上线，<a href="https://xiepengyu2004.github.io/ai-introduction-course/#/assignments/assignment1.1" target="_blank" rel="noopener noreferrer">点击查看作业详情</a>
           </p>
           <p class="course-notice__deadlines">
