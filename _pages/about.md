@@ -417,7 +417,7 @@ redirect_from:
   }
 </style>
 
-> 🐳 还需招一名27年入学的申请-考核制博士，欢迎感兴趣的联系。27年入学的推免硕士也还剩一个名额，欢迎拿到offer或者候补资格的同学联系。
+> 🐳 还需招一名27年入学的申请-考核制博士，欢迎感兴趣的同学联系。27年入学的推免硕士也还剩一个名额，欢迎拿到offer的同学联系。
 
 ## Biography
 I am working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
