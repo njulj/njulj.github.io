@@ -1,4 +1,9 @@
 awards:
+  - date: "2026.10"
+    award: 一等奖（冠军）
+    title: 【CSIG挑战赛】华为终端：2026“Camera学术之星”影像算法技术竞赛
+    detail: “生成式图像增强可控性挑战”赛道 · 奖金 ¥30,000
+    students: 张朱昊（研二）、汪李鑫（研二）
   - date: "2026.08"
     award: 三等奖
     title: 第八届开源创新大赛

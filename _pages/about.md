@@ -103,7 +103,7 @@ redirect_from:
     padding: 1.25rem 1.35rem;
     border: 1px solid rgb(63 113 133 / 22%);
     border-radius: 0.75rem;
-    background: rgb(63 113 133 / 7%);
+    background: rgb(63 113 133 / 1%);
   }
 
   .about-community p {
@@ -417,60 +417,12 @@ redirect_from:
   }
 </style>
 
-> 🐳 还需招一名27年入学的申请-考核制博士，欢迎感兴趣的同学联系。27年入学的推免硕士也还剩一个名额，欢迎拿到offer的同学联系。
+> 🐳 还需招一名27年入学的申请-考核制博士，欢迎感兴趣的同学联系。27年入学的硕士也还剩一个名额，欢迎拿到推免offer/考研的同学联系。
 
 ## Biography
 I am working as an Assistant Professor at the School of Intelligence Science and Technology, Nanjing University. I am also a member of the [Multimedia Computing Group (MCG)](http://mcg.nju.edu.cn/), working with [Prof.Jie Tang](http://mcg.nju.edu.cn/) and [Prof.Limin Wang](https://wanglimin.github.io/). Previously, I obtained my Ph.D. at the Department of Computer Science and Technology, Nanjing University, China, in Sep. 2022. Before that, I received my master's degree in the Department of Computer Science and Technology at Nanjing University, China, in Jue. 2018 and B.E degree from the Department of Computer Science and Technology, Nanjing University, China, in Jue. 2015.
 
 My research interest broadly includes deep learning, computer vision and speech processing. Specifically, I focus on image/video restoration and generation, multimodal perception and understanding, efficient MLLM/LLM, agentic system, etc.
-
-## Community & Discussion
-
-<div class="about-community">
-  <div>
-    <p>欢迎对图像恢复 Agent、低层视觉与多模态智能感兴趣的研究者、开发者和同学加入社区，一起交流讨论！</p>
-    <ul>
-      <li>讨论最新论文与研究想法</li>
-      <li>分享开源项目和实用资源</li>
-      <li>交流技术问题与实现经验</li>
-      <li>寻找潜在的科研合作伙伴</li>
-    </ul>
-    <div class="about-community__group">
-      <span>QQ群</span>
-      <strong>1056914561</strong>
-    </div>
-    <p><small>可搜索群号或扫描右侧二维码加入，欢迎大家进群交流。</small></p>
-  </div>
-  <figure class="about-community__qr">
-    <img src="{{ '/images/awesome-agent-qq-group.png' | relative_url }}" alt="Awesome Agent for Low-level Vision QQ group QR code, group number 1056914561">
-    <figcaption>扫码加入 QQ 群</figcaption>
-  </figure>
-</div>
-
-## Current Research
-
-<div class="research-topics">
-  <article class="research-topic">
-    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-magic"></i></span>
-    <div><h3>Controllable Image Generation (AIGC)</h3><p>Focus on Unified Visual Understanding and Generation. Learning shared representations for controllable, faithful, and spatiotemporally consistent image and video restoration, editing, and generation.</p></div>
-  </article>
-
-  <article class="research-topic">
-    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-globe-asia"></i></span>
-    <div><h3>Controllable Scientific Generation (AI4S)</h3><p>Focus on Physically Consistent Weather Downscaling. Physics-constrained generative modeling for high-resolution meteorological data.</p></div>
-  </article>
-
-  <article class="research-topic">
-    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-robot"></i></span>
-    <div><h3>Audio-Visual Multimodal Interaction (AVWM)</h3><p>Focus on Audio-Visual Embodied Intelligence/Smart Glasses. Learning unified audio-visual representations, spatial memory, and predictive world models for proactive interaction and autonomous navigation.</p></div>
-  </article>
-
-  <article class="research-topic">
-    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-project-diagram"></i></span>
-    <div><h3>Self-Evolving Agents (RSI)</h3><p>Focus on Recursive self-improvement of agent capabilities and learning strategies through experience and feedback, with applications in content generation, multimodal interaction, and atmospheric science.</p></div>
-  </article>
-  
-</div>
 
 ## Recent News
 
@@ -478,6 +430,7 @@ My research interest broadly includes deep learning, computer vision and speech 
 
 <div class="news-scroll" markdown="1" role="region" aria-label="Recent news" tabindex="0">
 
+* <span class="news-date">2026.10</span> <span class="news-highlight">恭喜研二的张朱昊和汪李鑫同学获得【CSIG挑战赛】华为终端：2026“Camera学术之星”影像算法技术竞赛“生成式图像增强可控性挑战”赛道一等奖（冠军，奖金 ¥30,000）！</span>
 * <span class="news-date">2026.08</span> <span class="news-highlight">恭喜雷业成（大三）、徐子轩（大三）同学在第八届开源创新大赛“基于AI/Agent的NPU算子自动生成”开源任务挑战赛道中获得三等奖！</span>
 * <span class="news-date">2026.07</span> <span style="color:purple">Our paper "Enabling Proactive Spoken Turns via a Generalized Style-Aware Full-Duplex Framework" was accepted by MM 2026 (CCF-A). Congratulations Tianrui Pan!</span>
 * <span class="news-date">2026.06</span> <span style="color:purple">We secured third place in the REAL-I 2026 — The 1st Real-World Embodied AI Learning Challenge, held at ICRA 2026. 恭喜陈宇宁、孙飞宇和张明轩同学！</span>
@@ -545,6 +498,54 @@ My research interest broadly includes deep learning, computer vision and speech 
 
 </div>
 
+## Community & Discussion
+
+<div class="about-community">
+  <div>
+    <p>欢迎对图像恢复 Agent、低层视觉与多模态智能感兴趣的研究者、开发者和同学加入社区，一起交流讨论！</p>
+    <ul>
+      <li>讨论最新论文与研究想法</li>
+      <li>分享开源项目和实用资源</li>
+      <li>交流技术问题与实现经验</li>
+      <li>寻找潜在的科研合作伙伴</li>
+    </ul>
+    <div class="about-community__group">
+      <span>QQ群</span>
+      <strong>1056914561</strong>
+    </div>
+    <p><small>可搜索群号或扫描右侧二维码加入，欢迎大家进群交流。</small></p>
+  </div>
+  <figure class="about-community__qr">
+    <img src="{{ '/images/awesome-agent-qq-group.png' | relative_url }}" alt="Awesome Agent for Low-level Vision QQ group QR code, group number 1056914561">
+    <figcaption>扫码加入 QQ 群</figcaption>
+  </figure>
+</div>
+
+## Current Research
+
+<div class="research-topics">
+  <article class="research-topic">
+    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-magic"></i></span>
+    <div><h3>Controllable Image Generation (AIGC)</h3><p>Focus on Unified Visual Understanding and Generation. Learning shared representations for controllable, faithful, and spatiotemporally consistent image and video restoration, editing, and generation.</p></div>
+  </article>
+
+  <article class="research-topic">
+    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-globe-asia"></i></span>
+    <div><h3>Controllable Scientific Generation (AI4S)</h3><p>Focus on Physically Consistent Weather Downscaling. Physics-constrained generative modeling for high-resolution meteorological data.</p></div>
+  </article>
+
+  <article class="research-topic">
+    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-robot"></i></span>
+    <div><h3>Audio-Visual Multimodal Interaction (AVWM)</h3><p>Focus on Audio-Visual Embodied Intelligence/Smart Glasses. Learning unified audio-visual representations, spatial memory, and predictive world models for proactive interaction and autonomous navigation.</p></div>
+  </article>
+
+  <article class="research-topic">
+    <span class="research-topic-icon" aria-hidden="true"><i class="fa-solid fa-project-diagram"></i></span>
+    <div><h3>Self-Evolving Agents (RSI)</h3><p>Focus on Recursive self-improvement of agent capabilities and learning strategies through experience and feedback, with applications in content generation, multimodal interaction, and atmospheric science.</p></div>
+  </article>
+
+</div>
+
 <h2 class="selected-publications-heading">Selected Publications <a href="/publications/">[Full List]</a></h2>
 
 <div class="featured-publications">
@@ -563,7 +564,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">Disentangled Textual Priors for Diffusion-based Image Super-Resolution</div>
       <div class="paper-authors">Lei Jiang, Xin Liu, Xinze Tong, Zhiliang Li, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>CVPR 2026</em></div>
-      <div class="paper-links"><a href="https://arxiv.org/abs/2603.07430">PDF</a><a href="https://github.com/JL6666JL/DTPSR">Code</a><a class="github-stars" href="https://github.com/JL6666JL/DTPSR/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>15</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=1602891317005625924" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>1</a></div>
+      <div class="paper-links"><a href="https://arxiv.org/abs/2603.07430">PDF</a><a href="https://github.com/JL6666JL/DTPSR">Code</a><a class="github-stars" href="https://github.com/JL6666JL/DTPSR/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>18</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=1602891317005625924" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>1</a></div>
     </div>
   </div>
   <div class="featured-publication">
@@ -572,7 +573,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">In-the-wild Audio Spatialization with Flexible Text-guided Localization</div>
       <div class="paper-authors">Tianrui Pan, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Zewen Huang, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>ACL 2025 Main (Oral)</em></div>
-      <div class="paper-links"><a href="https://arxiv.org/pdf/2506.00927">PDF</a><a href="https://github.com/Alice01010101/TASU">Code</a><a class="github-stars" href="https://github.com/Alice01010101/TASU/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>11</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=13634392053545912425" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>3</a></div>
+      <div class="paper-links"><a href="https://arxiv.org/pdf/2506.00927">PDF</a><a href="https://github.com/Alice01010101/TASU">Code</a><a class="github-stars" href="https://github.com/Alice01010101/TASU/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>11</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=13634392053545912425" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>6</a></div>
     </div>
   </div>
   <div class="featured-publication">
@@ -581,7 +582,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution</div>
       <div class="paper-authors">Xin Liu, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>CVPR 2025</em></div>
-      <div class="paper-links"><a href="https://arxiv.org/abs/2503.06896">PDF</a><a href="https://github.com/EquationWalker/CATANet">Code</a><a class="github-stars" href="https://github.com/EquationWalker/CATANet/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>236</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=6564347727405235652" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>108</a></div>
+      <div class="paper-links"><a href="https://arxiv.org/abs/2503.06896">PDF</a><a href="https://github.com/EquationWalker/CATANet">Code</a><a class="github-stars" href="https://github.com/EquationWalker/CATANet/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>239</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=6564347727405235652" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>133</a></div>
     </div>
   </div>
   <div class="featured-publication">
@@ -590,7 +591,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">Robust Object Modeling for Visual Tracking</div>
       <div class="paper-authors">Yidong Cai, <strong>Jie Liu</strong><span class="corresponding-mark" title="Corresponding author" aria-label="Corresponding author">&#9993;&#65038;</span>, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>ICCV 2023</em></div>
-      <div class="paper-links"><a href="https://arxiv.org/abs/2308.05140">PDF</a><a href="https://github.com/dawnyc/ROMTrack">Code</a><a class="github-stars" href="https://github.com/dawnyc/ROMTrack/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>49</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=16959695817106881254" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>271</a></div>
+      <div class="paper-links"><a href="https://arxiv.org/abs/2308.05140">PDF</a><a href="https://github.com/dawnyc/ROMTrack">Code</a><a class="github-stars" href="https://github.com/dawnyc/ROMTrack/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>49</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=16959695817106881254" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>287</a></div>
     </div>
   </div>
   <div class="featured-publication">
@@ -599,7 +600,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">Residual Feature Aggregation Network for Image Super-Resolution</div>
       <div class="paper-authors"><strong>Jie Liu</strong>, Wenjie Zhang, Yuting Tang, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>CVPR 2020</em></div>
-      <div class="paper-links"><a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html">Paper</a><a href="https://github.com/njulj/RFANet">Code</a><a class="github-stars" href="https://github.com/njulj/RFANet/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>106</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=17474753560595458218" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>788</a></div>
+      <div class="paper-links"><a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html">Paper</a><a href="https://github.com/njulj/RFANet">Code</a><a class="github-stars" href="https://github.com/njulj/RFANet/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>106</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=17474753560595458218" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>797</a></div>
     </div>
   </div>
   <div class="featured-publication">
@@ -608,7 +609,7 @@ My research interest broadly includes deep learning, computer vision and speech 
       <div class="paper-title">Residual Feature Distillation Network for Lightweight Image Super-Resolution</div>
       <div class="paper-authors"><strong>Jie Liu</strong>, Jie Tang, and Gangshan Wu</div>
       <div class="paper-venue"><em>ECCVW 2020</em></div>
-      <div class="paper-links"><a href="https://link.springer.com/chapter/10.1007/978-3-030-67070-2_2">Paper</a><a href="https://github.com/njulj/RFDN">Code</a><a class="github-stars" href="https://github.com/njulj/RFDN/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>402</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=5480173376995974751" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>821</a></div>
+      <div class="paper-links"><a href="https://link.springer.com/chapter/10.1007/978-3-030-67070-2_2">Paper</a><a href="https://github.com/njulj/RFDN">Code</a><a class="github-stars" href="https://github.com/njulj/RFDN/stargazers" title="GitHub stars"><i class="fa-solid fa-star" aria-hidden="true"></i>403</a><a class="citation-count" href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=5480173376995974751" title="Google Scholar citations"><i class="ai ai-google-scholar" aria-hidden="true"></i>851</a></div>
     </div>
   </div>
 </div>
