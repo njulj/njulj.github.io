@@ -430,7 +430,7 @@ My research interest broadly includes deep learning, computer vision and speech 
 
 <div class="news-scroll" markdown="1" role="region" aria-label="Recent news" tabindex="0">
 
-* <span class="news-date">2026.11</span> <span class="news-highlight">恭喜大三的雷业成、徐子轩和付云峰同学获得挑战杯“揭榜挂帅”——基于AI Agent开发范式的国产GPU大模型推理算子库优化赛题“擂主”（冠军）！</span>
+* <span class="news-date">2026.11</span> <span class="news-highlight">恭喜大三的雷业成、徐子轩和付云峰同学获得2026年度挑战杯“揭榜挂帅”——基于AI Agent开发范式的国产GPU大模型推理算子库优化赛题“擂主”（冠军）！</span>
    <p align="left">
    <img src="{{ '/images/challenge-cup-2026-champion.jpeg' | relative_url }}" alt="挑战杯“揭榜挂帅”人工智能领域主擂台赛颁奖现场" width="400" loading="lazy">
    </p>
