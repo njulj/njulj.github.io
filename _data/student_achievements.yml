@@ -1,4 +1,12 @@
 awards:
+  - date: "2026.11"
+    award: 擂主（冠军）
+    title: 挑战杯“揭榜挂帅”
+    detail: 基于AI Agent开发范式的国产GPU大模型推理算子库优化赛题
+    students: 雷业成（大三）、徐子轩（大三）、付云峰（大三）
+    links:
+      - label: 获奖图片
+        url: /images/challenge-cup-2026-champion.jpeg
   - date: "2026.10"
     award: 一等奖（冠军）
     title: 【CSIG挑战赛】华为终端：2026“Camera学术之星”影像算法技术竞赛

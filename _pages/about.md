@@ -430,6 +430,10 @@ My research interest broadly includes deep learning, computer vision and speech 
 
 <div class="news-scroll" markdown="1" role="region" aria-label="Recent news" tabindex="0">
 
+* <span class="news-date">2026.11</span> <span class="news-highlight">恭喜大三的雷业成、徐子轩和付云峰同学获得挑战杯“揭榜挂帅”——基于AI Agent开发范式的国产GPU大模型推理算子库优化赛题“擂主”（冠军）！</span>
+   <p align="left">
+   <img src="{{ '/images/challenge-cup-2026-champion.jpeg' | relative_url }}" alt="挑战杯“揭榜挂帅”人工智能领域主擂台赛颁奖现场" width="400" loading="lazy">
+   </p>
 * <span class="news-date">2026.10</span> <span class="news-highlight">恭喜研二的张朱昊和汪李鑫同学获得【CSIG挑战赛】华为终端：2026“Camera学术之星”影像算法技术竞赛“生成式图像增强可控性挑战”赛道一等奖（冠军，奖金 ¥30,000）！</span>
 * <span class="news-date">2026.08</span> <span class="news-highlight">恭喜雷业成（大三）、徐子轩（大三）同学在第八届开源创新大赛“基于AI/Agent的NPU算子自动生成”开源任务挑战赛道中获得三等奖！</span>
 * <span class="news-date">2026.07</span> <span style="color:purple">Our paper "Enabling Proactive Spoken Turns via a Generalized Style-Aware Full-Duplex Framework" was accepted by MM 2026 (CCF-A). Congratulations Tianrui Pan!</span>
